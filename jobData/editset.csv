@@ -1,0 +1,3226 @@
+jobId,title,generes
+1,Marketing Technologist,Social Media|Marketing
+2,SEO Consultant,Social Media|Marketing
+3,Web Analytic Developer,Social Media|Marketing
+4,Digital Marketing Manager,Social Media|Marketing
+5,Social Media Manager,Social Media|Marketing
+6,Growth Hacker,Social Media|Marketing
+7,Content Manager,Content
+8,Content Strategist,Content
+9,Information Architect,Information
+10,UX Designer,UserExpierence
+11,UI Designer,UserExpierence
+12,Accessibility Specialist,UserExpierence
+13,Interaction Designer,UserExpierence
+14,Front-End Designer,FrontendDevelpment
+15,Front-End Developer,FrontendDevelpment
+16,Mobile Developer,BackendDevelpment
+17,Full-Stack Developer,BackendDevelpment
+18,Software Developer,BackendDevelpment
+19,WordPress Developer,BackendDevelpment
+20,FrameWork Specialist,BackendDevelpment
+21,Ruby On Rails Development,BackendDevelpment
+22,Python Developer,BackendDevelpment
+23,Java Developer,BackendDevelpment
+24,C++ Developer,BackendDevelpment
+25,Kotlin Developer,BackendDevelpment
+26,Business System Analyst,System
+27,System Engineer,System
+28,System Administrator,System
+29,Data Base Administrator,Data
+30,Data Architect,Data
+31,Data Modeler,Data
+32,Data Analyst,Data
+34,Data Scientist,Data
+35,Data Engineer,Data
+36,Cloud Architect,Data
+37,Technical Lead,Management
+38,Develops Manager,Management
+39,Project Manager,Management
+40,Agile Project Manager,Management
+41,Product Manager,Management
+42,Technical Account Manager,Management
+43,Security Specialist,Specialist
+44,QA(QualityAssurance)Specialist,Specialist
+45,Game Developer,Specialist
+46,Computer Graphic Animator,Specialist
+47,Mobile App Developer,Specialist
+48,Machine Learning Engineer,Specialist
+49,Big Data Engineer,Specialist
+50,Event/Meeting Planner,Management
+52,Purchasing Manager,Management
+53,Receptionist,Management
+54,Secretary,Management
+55,Market Research Analyst,Marketing
+57,Advertising Sales Agent,Marketing
+58,Editor,Advertising
+59,Graphic Designer,UserExpierence
+60,Interpreter and Translator,UserExpierence
+61,Public Relations Specialist,Specialist
+62,Social Media Manager,Social Media|Marketing
+63,Writer and Editor,Content
+64,Fashion Designer,Designing
+65,Interior Designer,Designing
+66,Photographer,Marketing
+68,Chemist,Medication
+69,Curator,Management
+70,Guidance Counselor,Specialist
+71,Hydrologist,Specialist
+72,Librarian,Management
+73,Special Education Teacher,UserExpierence
+74,School Principal,UserExpierence
+76,Teacher,UserExpierence
+77,Teacher Assistant,Data
+78,Accountant,Data
+79,Actuary,Data
+80,Bank Teller,Data
+81,Bookkeeping,Data
+82,Budget Analyst,Data
+83,Claims Adjuster,Data
+84,Financial Advisor,Marketing
+85,Insurance Underwriter,Sales
+86,Loan Officer,Sales
+87,Bartender,UserExpierence
+88,Chef,Specialist
+89,Waiter/Waitress,UserExpierence
+92,Biomedical Engineer,Specialist
+93,Cardiovascular Technologist,Specialist
+94,Dental Hygienist,Specialist
+95,Dentist,Specialist
+96,Diagnostic Medical Sonographer,Specialist
+97,Dietitian/Nutritionist,Specialist
+98,Doctor,Specialist
+99,EMTs and Paramedics,Specialist
+100,Cashier,UserExpierence
+101,Customer Service Representative,UserExpierence
+102,Retail Salesperson,Sales
+103,Retail Supervisor,Sales
+104,Animal Groomer,UserExpierence
+105,Auto Mechanic,Specialist
+107,Cosmetologist,Specialist
+108,Fitness Trainer,Specialist
+110,Funeral Director,Specialist
+111,Hairdressers,Specialist
+112,Marriage and Family Therapist,Specialist
+113,Agents and Business Managers of Artists,UserExpierence
+114,Agricultural Engineers,Argo
+116,Agricultural Inspectors,Agro
+117,Agricultural Managers,Agro|Management
+118,Agricultural Scientists,Science
+119,Agricultural Technicians,Agro
+121,Agricultural Workers,Agro
+122,Air Conditioning  Mechanics,Specialist
+123,Air Traffic Controllers,Specialist
+124,Aircraft Cargo Supervisors,Specialist
+125,Commercial Designers,UserExpierence
+126,Bookkeeping,Data
+129,Counter and Rental Clerks,Audit
+130,Financial Clerks,Audit
+131,General Office Clerks,Audit
+132,Information Clerks,Audit
+135,Mail Clerks,Marketing
+137,Material Recording Clerks,Sales
+140,Conservation Technicians,Specialist
+141,Construction and Related Workers,UserExpierence
+144,Construction Equipment Operators,UserExpierence
+145,Construction Inspectors,UserExpierence
+146,Construction Laborers,UserExpierence
+147,Construction Managers,Management
+148,Conservation Scientists,Specialist
+149,Academic librarian,Management
+150,Accountant,Sales
+151,Accounting technician,Sales
+152,Actuary,Sales
+153,Adult nurse,Nursing
+154,Construction Managers,Management
+155,Data Entry Keyers,Data
+156,Database Administrators,Data
+157,Delivery Truck Drivers,Sales
+158,Demonstrators,Management
+159,Financial Analysts,Finance
+160,Financial Clerks,Finance
+161,Financial Clerks,Finance
+162,Financial Examiners,Finance
+163,Financial Managers,Finance
+164,Financial Services,Finance
+165,Financial Specialists,Finance
+166,Food and Beverage Serving  Workers,UserExpierence
+167,Food Preparation Workers,UserExpierence
+168,Food Processing Workers,UserExpierence
+169,Accounting,Data
+170,Auditing Clerks,Data
+171,Driver,Skill Set
+172,Administrative Assistant,USerExpierence
+173,Appraiser,UserExpierence
+174,Examiner,UserExpierence
+175,Investigator,Investigation
+176,Sales Workers,Sales
+177,IT consultancy,Expertise
+178,cyber cell security,Security
+179,Information systems manager,Management
+180,Managing Analyst,Management
+181,Systems analyst.,System
+183,Games developer.,Gamer
+184,Technical writer.,Writing
+185,Sales Agents,Product
+186,Product Promoters,Product
+187,Athletes,Sports
+188,Civil Engineering Technicians,Tech
+189,Civil Engineers,Civil
+190,Police Inspectors,Inspectors
+191,Carpet Installers,UserExpierence
+193,Dredge Operators,UserExpierence
+194,Drywall Installers,UserExpierence
+195,Tile Installers,UserExpierence
+196,fence Erectors,UserExpierence
+198,First Line Supervisors,UserExpierence
+199,Geothermal Technicians,UserExpierence
+200,Floor sanders,UserExpierence
+201,Hignway Maintenance Workers,UserExpierence
+202,Hoist and winch Operators,UserExpierence
+203,Home appliance Repairers,UserExpierence
+204,Insulation workers,UserExpierence
+205,Landscape Architects,Architecture
+206,Landscaping Workers,UserExpierence
+207,Mechanical Door Repairers,Repairment
+208,Mechanical Drafters,Repairment
+210,Plumbers,Repairment
+211,Pipe fitters,Repairment
+213,Septic Tank Services,Repairment
+214,Sheet metal Workers,Repairment
+215,Stationary Engineers,Skill Set
+216,Fabricators,Skill Set
+217,Advertising managers,Social Media|Marketing
+218,Promotions Managers,Social Media|Marketing
+219,Auditors,Data
+220,Art Directors,Art
+222,Biofuels Production Managers,Management
+223,Chief Executives,Development
+224,Chief Sustainability Officers,Skill Set
+225,Compliance Managers,Management
+227,Correspondence Clerks,Accountancy
+228,Couriers,Deliver
+229,Messengers,Deliver
+230,Energy Auditors,Audit
+231,Executives,Chief
+232,File Clerks,File handling
+233,Geothermal managers,Management
+234,Medical Secretaries,Medication
+235,System Operators,System
+236,Accounts clerk,Accountancy
+237,Operations Research Analysts,Research
+238,Timekeeping Clerks,Service
+239,Public Relations Specialists,Product
+240,Fund raising Managers,Management
+241,Information Clerks,Service
+242,Spa Managers,Management
+243,Telephone Operators,Signal
+244,Video Equipment Technicians,Tech
+245,Audio Equipment Technicians,Tech
+246,Broadcast News Analysts,Media
+247,Broadcast Technicians,Media|Television
+248,Photographic Equipment Repairers,Photography
+249,Copy Writers,Writing
+250,Craft Artists,Art
+251,Desktop Publishers,Media
+252,Video Editors,videography
+253,Fine artists,Art
+254,Multimedia Artists,Art
+255,Music Composers and Arrangers,Music
+256,"Poets, Lyricists",Poetry
+257,Program Directors,Event
+258,Reporters and Correspondents,Media|Television
+259,Talent Directors,Cinema
+260,Telecommunications,Telecom
+261,Anthropology,Study
+262,Archivists,Records
+263,Multimedia Specialists,Specialist
+264,Business Teachers,Expertise
+265,Technical Education Teachers,Expertise
+266,Coaches and Scouts,Coaching
+267,Communications Teacher,Conversation
+268,Distance Learning Coordinators,DL programs
+269,Computer Science Teachers,Expertise
+270,Vocational Counselors,Counseling
+271,Engineering Teachers,Expertise
+272,Wellness Coordinators,Health
+273,Geography Teachers,Expertise
+274,Graduate Teaching Assistants,Expertise
+275,Instructional Coordinators,Expertise
+276,Kindergarten Teachers,Expertise
+277,Mathematical Science Teacher,Expertise
+278,Middle School Teachers,Expertise
+279,Animators,Anime
+280,Creative Writers,Writing
+281,Line Installers,UserExpierence
+282,Repairers,UserExpierence
+283,Archeology Teachers,Expertise
+285,PHONE BANKING OFFICER,Banking
+287,Vacancy for PRT,Expertise
+288,Vacancy for TGT,Expertise
+289,Vacancy for PGT,Expertise
+290,PNB MET LIFE INSURANCE,Expertise
+291,JS Developer,BackendDevelpment
+292,Dispatchers,UserExpierence
+293,Health and Safety Engineers,Health
+294,Industrial Engineers,Skill Set
+295,Manufacturing Engineers,Skill Set
+296,Marine Engineers,Marine
+299,Materials Engineers,Skill Set
+300,Mechanical Engineers,Skill Set
+301,Mining Engineers,Mines
+302,Mining Safety Engineers,Mines
+303,Nuclear Engineers,Skill Set
+304,Petroleum Engineers,Skill Set
+305,Sales Engineers,Skill Set
+306,Stationary Engineers,Skill Set
+307,Funeral Attendants,Funeral
+308,Funeral Service Worker,Service
+309,G.E.D. Teachers,Expertise
+312,Gaming Change Persons,Gamer
+313,Gaming Services Workers,Gamer
+314,Gaming Surveillance Officers,Gamer
+315,Gas Compressor,Compress
+316,Booth Cashiers,Booth
+317,Graduate Teaching Assistants,Expertise
+318,Graphic Designers,Designing
+319,Grinding and Polishing Workers,UserExpierence
+320,Grounds Maintenance Workers,UserExpierence
+321,Industrial Designers,Designing
+322,Industrial Engineering Technicians,Industry
+324,Industrial Engineers,Industry
+325,Maintenance Workers,Management
+326,Industrial Production Managers,Management
+327,Historians,Historic
+328,Home Appliance Repairers,Appliance
+329,Home Health Aides,Health Centers
+330,Hotel Managers,Management
+331,Housekeeping Cleaners,UserExpierence
+332,Human Resources Managers,Management
+333,Human Resources Specialists,Specialist
+334,Human Service Assistants,Service
+335,Hunting Workers,UserExpierence
+336,Hydrologists,Specialist
+337,Instructional Coordinators,Coordination
+338,Insulation Workers,UserExpierence
+339,Insurance Sales Agents,Sales
+340,Insurance Underwriters,Insurance
+341,Interior Designers,Designing
+342,Interpreters,Interpretation
+343,Iron Workers,UserExpierence
+344,Jewelers,Jeweler
+345,Job Analysis Specialists,Specialist
+346,Journalists,Journal
+347,Judges,Legislature
+348,Labor Relations Specialists,Specialist
+349,Laboratory Animal Caretakers,Caretaker
+350,Landscape Architects,Expertise
+351,Locksmiths and Safe Repairers,UserExpierence
+352,Lodging Managers,Management
+353,Logging Workers,UserExpierence
+354,Logicians,UserExpierence
+355,Layout Workers,UserExpierence
+356,Legal Assistants,Legal
+357,Legal Support Workers,UserExpierence
+358,Legislators,Legislature
+360,Manufacturing Sales Representatives,Manufacture
+361,Mapping Technicians,UserExpierence
+362,Marble Setters,UserExpierence
+363,Marine Mechanics,Marine
+364,Marine Engineers,Expertise
+365,Market Research Analysts,Research
+366,Mathematical Technicians,Expertise
+367,Mathematicians,Skill Set
+368,"Meat, Poultry, and Fish Cutters",Food
+369,Meat Packers,UserExpierence
+370,Mechanical Door Repairers,UserExpierence
+371,Mechanical Engineering Technicians,Expertise
+372,Mechanical Engineers,Expertise
+373,Mechanics - Automotive,Expertise
+374,Mechanics - Diesel,Expertise
+375,"Mechanics - Heating, Air Conditioning",Expertise
+376,Mechanics - Industrial Machinery,Expertise
+377,Mechanics - Small Engine,Expertise
+378,Equipment Workers,UserExpierence
+379,Media and Communication Workers,Media
+380,Medical Appliance Technicians,Medicine
+381,Medical Assistants,Medicine
+382,Medical Billing and Coding,UserExpierence
+383,Medical Doctors,Medication
+384,Medical Equipment Repairers,Medication
+387,Medical Laboratory Technologists,Medication
+388,Medical Records Technicians,Medication
+389,Medical Scientists,Medication
+390,Medical Services Managers,Medication
+391,Medical Transcription,Medication
+392,Meteorologists,Expertise
+393,Meter Readers,UserExpierence
+401,Microbiologists,UserExpierence
+405,Middle School Principals,Expertise
+407,Middle School Teachers,Expertise
+408,Millwrights,Corn mills
+409,Channeling Machine Operators,UserExpierence
+410,Mine Shuttle Car Operators,Automobile
+412,Mining Engineers,Mines
+413,Mining Machine Operators,mines
+414,Mining Safety Engineers,Expertise
+415,Mobile Equipment Service Technicians,Service
+416,Motion Picture Projectionists,Picturisation
+417,Motor Vehicle Operators,Automobile
+418,Motorcycle Mechanics,Expertise
+419,MRI Technologists,Medical
+420,Multimedia Animators,Animations
+421,Museum Technicians,History
+422,Music Directors and Composers,Music
+423,Musical Instrument Repairers,Music
+424,Musicians,Music
+425,Nail Technicians,Nail
+426,Natural Sciences Managers,Management
+427,Naval Architects,UserExpierence
+428,Network Architects,Expertise
+429,Network Systems Administrators,Expertise
+431,News Analysts,Expertise
+432,Nuclear Engineers,Expertise
+433,Nuclear Medicine Technologists,Expertise
+434,Nuclear Technicians,Expertise
+435,Operations Research Analysts,Reasearch
+436,Ophthalmic Medical Technicians,Medical
+437,"Opticians, Dispensing",Expertise
+438,Optometrists,Expertise
+439,Orderlies,Non medical care
+440,Orthotists,Expertise
+441,Painters,UserExpierence
+442,Painting Workers,UserExpierence
+443,Paperhangers,UserExpierence
+444,Paralegals,Legal Affairs
+445,Paramedics,Expertise
+446,Parking Enforcement Workers,Expertise
+447,Parking Lot Attendants,UserExpierence
+448,Patternmakers (Wood),UserExpierence
+449,Payroll Clerks,UserExpierence
+450,Pedicurists,Expertise
+451,Physical Scientists,Expertise
+452,Physical Therapist Assistants,Expertise
+453,Physical Therapists,Expertise
+454,Physician Assistants,Expertise
+455,"Producers - Film, Theater",Production
+456,Production Managers,Management
+457,Production Worker Helpers,Production
+458,Production Workers,Production
+459,Promotions Managers,Management
+460,Proofreaders and Copy Markers,Expertise
+461,Property Managers,Management
+463,Prosthetists,Expertise
+464,Radiation Therapists,Expertise
+465,Radio Operators,UserExpierence
+466,Tower Equipment Installers,UserExpierence
+467,Radiologic Technologists,UserExpierence
+468,Rail Transportation Workers,UserExpierence
+469,Maintenance Equipment Operators,Maintenance
+470,Railroad Occupations,Railway
+471,Ranchers,Home
+472,Real Estate Brokers,Market
+473,Real Estate Managers,Management
+474,Rehabilitation Counselors,Rehab
+475,Reinforcing Iron and Reba Workers,UserExpierence
+476,Religious Activities and Education Directors,Religions
+477,Religious Workers,Religions
+479,Repair and Maintenance Workers,UserExpierence
+480,Reporters,Media|Television
+481,Residential Advisers,Residence
+482,Respiratory Therapists,Expertise
+483,Retail Sales Workers,Sales
+484,Riggers,Sailing
+485,Roof Bolters (Mining),roof
+486,Roofers,UserExpierence
+487,Rotary Drill Operators,UserExpierence
+488,Roustabouts,UserExpierence
+489,Security Guards,UserExpierence
+490,Segmental Pavers,UserExpierence
+491,Semi Truck Drivers,Driving
+492,Septic Tank Servicers,Service
+493,Service Unit Operators,Service
+494,Set and Exhibit Designers,Designing
+495,Sewers (Hand),UserExpierence
+496,Shampooers,UserExpierence
+497,Sheet Metal Workers,UserExpierence
+498,Traffic Clerks,UserExpierence
+499,Leather Workers and Repairers,UserExpierence
+500,Signal and Track Switch Repairers,UserExpierence
+501,Skincare Specialists,Expertise
+502,Slaughterers,UserExpierence
+504,Small Engine Mechanics,UserExpierence
+505,Social Science Research Assistants,Research
+506,Social Scientists and Related Workers,UserExpierence
+507,Social Service Assistants,Service
+508,Social Service Managers,Service
+509,Social Workers,UserExpierence
+510,Sociologists,UserExpierence
+511,Software Developers,BackendDevelpment
+512,Solar Photovoltaic Installers,UserExpierence
+513,Solderers,UserExpierence
+514,Sound Engineering Technicians,UserExpierence
+515,Special Education Teachers,Expertise
+516,Special Education Teachers,Expertise
+517,Speech-Language Pathologists,Expertise
+518,Stationary Engineers,Expertise
+519,Statistical Assistants,Expertise
+520,Statisticians,Expertise
+521,Steamfitters,Expertise
+522,Steel Workers,UserExpierence
+523,Stonemasons,UserExpierence
+524,Substance Abuse Counselors,Expertise
+526,Subway and Streetcar Operators,Expertise
+527,Surgeons,Expertise
+528,Surgical Technologists,Expertise
+529,Survey Researchers,Expertise
+531,Surveying Technicians,Expertise
+532,Surveyors,Expertise
+533,Switchboard Operators,UserExpierence
+534,Custom Sewers,UserExpierence
+535,"Tank Car, Truck, and Ship Loaders",UserExpierence
+536,Tapers,UserExpierence
+537,Revenue Agents,UserExpierence
+538,Tax Prepares,UserExpierence
+539,Taxi Drivers,UserExpierence
+540,Telemarketers,UserExpierence
+541,Telephone Operators,UserExpierence
+542,Motion Picture Camera Operators,Cinema
+543,Tellers,UserExpierence
+544,Terrazzo Workers,UserExpierence
+546,Textile Careers,UserExpierence
+547,Furnishings Workers,UserExpierence
+548,Radiation Therapists,UserExpierence
+549,Tile Setters,UserExpierence
+550,Timekeeping Clerks,UserExpierence
+551,Tire Builders,UserExpierence
+552,Tire Repairers and Changers,UserExpierence
+553,Tobacco Processing Workers,UserExpierence
+554,Tool and Die Makers,UserExpierence
+555,Sharpeners,UserExpierence
+556,Top Executives,Expertise
+558,Tour Guides and Escorts,Tourism
+559,Traffic Technicians,UserExpierence
+561,Training Managers,Management
+562,Training and Development Specialists,Training
+563,Translators,Expertise
+564,Travel Agents,Travelism
+565,Travel Clerks,Travelism
+567,Travel Guides,Travelism
+568,Delivery and Sales Workers,Delivery
+569,Truck Drivers - H,Driving
+571,Ultrasound Technician,UserExpierence
+573,Sports Officials,Expertise
+574,Upholsterers,Expertise
+575,Urban and Regional Planners,Expertise
+577,"Ushers, Lobby Attendants",Expertise
+580,Vascular Technologists,Expertise
+581,Amusement Machine Servicer,Service
+582,Veterinarians,Service
+585,Veterinary Assistants,Expertise
+586,Veterinary Technologists,Expertise
+587,Video Editors,Expertise
+588,Vocational Nurses,Nursing
+589,X-Ray Technologists,Expertise
+590,Zoologists,Expertise
+592,Wellhead Pumpers,Expertise
+593,Wholesale Sales Representatives,Expertise
+594,Wildlife Biologists,Expertise
+595,Wind Turbine Technicians,Expertise
+596,Word Processors and Typists,Expertise
+597,Woodworkers,UserExpierence
+599,Process Engineer,BackendDevelpment
+600,"Automation Engineer,",BackendDevelpment
+603,Software Engineering SMTS,BackendDevelpment
+605,Systems Architect,System
+606,Assistant Software Engineer Jobs,Assistance
+608,Assistant Legal Manager,Assistance
+609,Assistant Manager Accounts,Accountancy
+610,Assistant Manager Administration,Administration
+611,Assistant Manager Audit,Audit
+612,Bussiness Development,Development
+613,Commercial Manager,Commerce
+614,Manager Design,Designing
+615,Manager Content,Content
+616,EDP Manager,Management
+617,Adobe Pagemaker Jobs,Designing
+619,AdobedayCQ5 Jobs,Designing
+620,Administrative Jobs,Administration
+621,Administrator Jobs,Administration
+626,Adminstration Jobs,Administration
+627,ADO Jobs,ADO
+628,ADO.Net Jobs,Development
+630,Adobe Captivate Jobs,Adobe
+631,Adobe CQ Jobs,Adobe
+632,Adobe CQ 5 Jobs,Adobe
+633,Adobe cq5 Jobs,Adobe
+635,Adobe CS Jobs,Adobe
+637,Adobe Flash Player Jobs,Adobe
+638,Adobe Illustrator Jobs,Adobe
+639,Adobe In design Jobs,Adobe
+640,Adobe Photoshop Jobs,Adobe
+647,Adobe Captivate Jobs,Adobe
+648,AdobedayCQ5 Jobs,Adobe
+650,Advance Jobs,Advanced
+651,Advance java Jobs,Administration
+653,Advanced excel Jobs,Advanced
+656,Advertisement Jobs,Advertising
+659,Advertisement Sales Jobs,Advertising
+661,ATG Commerce Jobs,Commercing
+662,ATG developer Jobs,Development
+663,ATG Dynamo Jobs,Dynamo
+664,Atg ecommmerce Jobs,Ecommerce
+665,Atg framework Jobs,Framework
+667,ATG-Commerce Jobs,Commercing
+668,ATL Jobs,Development
+670,Audience Programs Jobs,Program
+671,Audit Jobs,Audit
+673,Audit Assistant Jobs,Assistance
+674,Audit executive Jobs,Audit
+678,Auditing Jobs,Audit
+679,auditor Jobs,Audit
+680,Audits Jobs,Audit
+681,Audittracking Jobs,Audit
+685,Aum Jobs,Development
+687,Aun global Jobs,Global
+688,Author Jobs,Writing
+690,Authoring Jobs,Writing
+691,Auto Jobs,Expertise
+692,Auto CAD Jobs,Expertise
+694,Auto finance Jobs,Finance
+695,Auto Loans Jobs,Loans
+696,Auto sys Jobs,System
+697,AutoLISP Jobs,Lisp
+698,automation Jobs,Automation
+700,Automated test Jobs,Automation
+702,Automation Jobs,Automation
+703,Automation Framework Jobs,Framework
+704,Automation test Jobs,Auto
+705,Aviation Jobs,Aviation
+707,Aviation Engineering Jobs,Aviation
+708,AWS Jobs,AWS
+709,AWT Jobs,Awt
+710,Ax functional Jobs,Functional
+711,AX Technical Jobs,Development
+714,Ax++ Jobs,Service
+715,Ayurvedic Jobs,Ayurvedic
+718,Ayurvedic Doctor Jobs,Medicine
+719,B2b Jobs,b2b
+720,B2B marketing Jobs,Marketing
+721,B2b sales Jobs,Sales
+722,BAAN Jobs,Development
+724,back end operation Jobs,BackendDevelpment
+725,Back office Jobs,BackendDevelpment
+726,Back office Operations Jobs,BackendDevelpment
+728,BackboneJS Jobs,BackendDevelpment
+731,Backend Jobs,BackendDevelpment
+733,Backend developer Jobs,BackendDevelpment
+735,Backend engineer Jobs,BackendDevelpment
+736,Backoffice operations Jobs,BackendDevelpment
+737,Baker Jobs,Baker
+741,Bakery Chef Jobs,Bakery
+742,Balance sheet Jobs,Balance
+743,Bancassurance Management Jobs,Management
+745,Bank Reconciliation Statement Jobs,
+746,Biologist Jobs,Biological
+747,Biology Jobs,Biology
+748,Biomedical Science Jobs,Medical
+750,Biometrics Jobs,Biological
+753,BIOS Jobs,BIOS
+754,Biospec Jobs,Biospec
+755,Biosystems Jobs,System
+756,Biotechnology Jobs,Tech
+757,BIW Design Jobs,Designing
+759,Biz Jobs,Biz
+760,Biz talk Jobs,Biz
+761,Biztalk server Jobs,Service
+762,black belt Jobs,Service
+764,Black berry Jobs,Service
+765,Blackberry Jobs,Service
+766,Blended Jobs,Sales
+767,Blog writing Jobs,Blogging
+769,Blogging Jobs,B Logging
+775,Against property Jobs,Property
+778,Agency Jobs,Agency
+779,Agency channel Jobs,Agency
+780,Agency development Jobs,Development
+781,Agency Management Jobs,Management
+782,Agency partner Jobs,Partnership
+783,Agency sales Jobs,Sales
+784,Agency sales manager Jobs,Sales
+785,Agent Jobs,Agency
+786,Agent Hiring Jobs,Hiring
+787,AGM Jobs,Agm
+788,Agrochemical Jobs,Agro
+793,Agronomist Jobs,Agro
+798,agronutrients Jobs,Agro
+799,air cargo Jobs,Cargo|LOC
+800,Air Condition Jobs,Airlines
+801,Air conditioning Jobs,Airlines
+802,Air hostess Jobs,Airlines
+803,Air Watch Jobs,Airlines
+804,Airlines Jobs,Airlines
+805,Airoli Jobs,Airlines
+806,Air watch Jobs,Airlines
+808,AIX Admin Jobs,Administration
+809,AIX Administration Jobs,Administration
+810,AIX Specialist Jobs,Aix
+813,AIX system Admin Jobs,System
+816,Algorithm Jobs,Algorithm
+818,Algorithms Jobs,Algorithm
+820,ALLIANCE Jobs,Alliances
+824,Alliances Management Jobs,Alliances
+828,Amazon Jobs,Amazon
+829,Amazon web service Jobs,AWT
+830,Amazon Web Services Jobs,AWT
+831,amazon web service Jobs,AWT
+832,American Studies Jobs,Study
+833,Amerisource Bergen Jobs,Study
+834,Amex Jobs,Amex
+835,Anaesthetist Jobs,Speciality
+836,Analog Jobs,Service
+837,BMS Engineer Jobs,Development
+838,Cafe Manager Jobs,Cafes
+839,Cake Framework Jobs,Framework
+840,Cake PHP Jobs,PHp
+841,Cakephp Jobs,PHP
+842,Calabash Jobs,Development
+844,Call Center Jobs,Service
+845,Call coordinator Jobs,Service
+846,Call logging Jobs,Service
+848,Call monitoring Jobs,Service
+849,Call quality Jobs,Service
+850,Calypso Jobs,Service
+851,CAM Drawing Jobs,Service
+852,Cambata Jobs,Service
+854,Camel Jobs,Service
+858,Campaign Jobs,Service
+861,campaign management Jobs,Management
+864,Campaigns Jobs,Management
+865,Candidate Search Jobs,Service
+866,Candidate Sourcing Jobs,Service
+867,Capacity planning Jobs,Service
+869,Capital Goods Jobs,Goods
+870,Capital market Jobs,Marketing
+872,Capital Requirements Directive Jobs,Marketing
+875,Captivate Jobs,Market
+876,Car AC Repair Jobs,Automobile
+879,Car Driver Jobs,Automobile
+880,Car Engine Servicing Jobs,Automobile
+881,Car Loan Jobs,Automobile
+882,Card Analyst Jobs,Automobile
+885,Cardiologist Jobs,Speciality
+886,Cargo Jobs,Speciality
+888,Carmel Jobs,Service
+889,Casa Jobs,Service
+891,case evaluation Jobs,Service
+892,Cash Application Jobs,Service
+893,Cash Apps Jobs,Service
+896,Cash Flow Management Jobs,Management
+897,Cash Handling Jobs,File handling
+898,cash management Jobs,Management
+899,Cast Iron Jobs,Service
+900,Casting Jobs,Service
+901,Cataloger Jobs,Service
+902,Catholic Jobs,Speciality
+903,Cell sizing Jobs,Service
+904,Cement Jobs,Service
+905,Ceramics Jobs,Service
+906,Certified Public Accountant Jobs,Service
+907,Immigration Coordinating Jobs,Service
+908,Impromptu Jobs,Service
+909,IMS Jobs,IMS
+910,IMSDB Jobs,IMSDB
+911,Income Tax Jobs,Income
+912,Industrial Designing Jobs,Designing
+913,Industrial Engineering Jobs,Engineering
+914,Industrial Relations Jobs,Relations
+915,Informatica Jobs,Information
+916,Information Management Jobs,Management
+917,Information Systems Jobs,System
+918,Inform ix Jobs,Information
+919,Ingres Jobs,Ingres
+920,InputAccel Jobs,Development
+921,Inside Sales Jobs,Sales
+922,Inspection Jobs,Inspectors
+923,Inspection Engineering Jobs,Inspectors
+924,Installshield Jobs,Development
+926,Insteon Jobs,Development
+927,Institutional sales Jobs,Sales
+928,Instructing Jobs,Instructional
+929,Instructional designing Jobs,Instructional
+930,Instrument & Control Automation Jobs,Instrumental
+931,Instrumentation Engineering Jobs,Instrumental
+932,Insurance Analyst Jobs,Insurance
+933,Integrated Studies Jobs,Interpretation
+934,Interest Calculations Jobs,Development
+935,interior designing Jobs,Development
+936,Internal auditing Jobs,Audit
+937,International Business Development Jobs,Development
+938,International Business management Jobs,Management
+939,International Marketing Jobs,Marketing
+940,International Studies Jobs,International
+941,International Traveling Jobs,International
+942,Internet Marketing Jobs,International
+943,Intershop Enfinity Jobs,International
+944,Intrusion prevention/detection systems Jobs,Detection
+945,Inventory Control Management Jobs,Inventory
+946,Inventory management Jobs,Management
+947,Investment Advisor Jobs,Advising
+948,Investment Banking Jobs,Banking
+949,Investment Management Jobs,Investment
+950,Magneto developer Jobs,Development
+951,Mail draft Jobs,Development
+952,Mail exchange server Jobs,Service
+953,Main frame Jobs,Service
+954,Main frame testing Jobs,testing
+955,Mainframe Jobs,Service
+956,Mainframe developer Jobs,Service
+957,Mainframes Jobs,Service
+960,Maintain GL Jobs,Service
+961,Maintaining Jobs,Maintenance
+962,Maintaining Office Records Jobs,Maintenance
+963,Maintenance Jobs,Maintenance
+964,Maintenance Engineer Jobs,Maintenance
+965,Maintenance Engineering Jobs,Maintenance
+966,Maintenance Of Refrigerators Jobs,Maintenance
+968,MAIPU Jobs,Maintenance
+969,Makeup Artist Jobs,Artistic
+970,Male nurse Jobs,Nursing
+971,Malyalam Jobs,Bilingual
+972,MAM Jobs,MAM
+973,Manage Client Relationships Jobs,Management
+976,Manage Develop HR team Jobs,Management
+980,Managed Events Nationally Jobs,Management
+981,Managed print services Jobs,Management
+982,Managed security Jobs,Management
+984,Managed Services Jobs,Management
+986,Management Jobs,Management
+987,Management - Data Processing Jobs,Management
+988,Management - Migrations/ Transitions Jobs,Management
+990,Management - Service Delivery Jobs,Management
+991,Management Consultancy Jobs,Management
+992,Management Information System Jobs,Management
+994,Management maintainace computer operator Jobs,Management
+996,Management trainee Jobs,Management
+997,Managerm Engineering Jobs,Management
+998,Managing HR Policies Jobs,Management
+999,Managing staffs Jobs,Management
+1003,Manchester United Cafe Bar Jobs,Cafes
+1004,Mandarin Jobs,Mandarin
+1005,Mango DB Jobs,Data
+1006,Manual test Jobs,Data
+1007,Manual Tester Jobs,Testing
+1008,Manual Testing Jobs,Testing
+1009,Manufacturing Jobs,Manufacture
+1010,Manufacturing execution system Jobs,Manafacture
+1011,Map Making Jobs,Manafacture
+1012,Map Reduce Jobs,Maintenance
+1013,Marble Jobs,Maintenance
+1014,Marcom - Management Jobs,Management
+1015,Marinate Jobs,Marine
+1016,Marine Engineering Jobs,Marine
+1017,Market Developer Jobs,Development
+1018,Market Development Jobs,Development
+1019,Market optimization Jobs,Optimisation
+1020,Market planning Jobs,Planning
+1021,Market Research Jobs,Reasearch
+1022,Market Research - Management Jobs,Management
+1023,Market Risk Jobs,Marketing
+1024,Marketing Jobs,Marketing
+1025,Marketing - Display Products Jobs,Marketing
+1026,Network Security Jobs,Security
+1027,Network Security Engineer Jobs,Security
+1028,Network security vpn ssl Jobs,Security
+1029,Network Security. Jobs,Security
+1030,Network specialist Jobs,Speciality
+1031,Network Support Jobs,Support
+1032,Network System Jobs,System
+1033,Network Testing Jobs,Testing
+1034,Networking Jobs,Network
+1035,Networking Administrator Jobs,Administration
+1036,Networking Applications Jobs,Application
+1037,Networking Products Jobs,Product
+1040,Networking protocol Jobs,Product
+1041,Neural Network Jobs,Network
+1042,Neurologist Jobs,Speciality
+1043,neutron Jobs,Science
+1044,New Account Setup Jobs,Accountancy
+1046,new horizon Jobs,Horizon
+1047,new preffered Jobs,Preffered jobs
+1049,New Product Jobs,Product
+1050,New Product Development Jobs,Product
+1051,New Product Introduction Jobs,Product
+1053,News Editing Jobs,Editors
+1054,Newspaper Jobs,News
+1055,Nexus Jobs,Nexus
+1056,Nginx Jobs,Nginx
+1057,Ngo Jobs,Ngo
+1059,NH-1 Kitchen Jobs,Kitchen skills
+1060,Nhibernate Jobs,Service
+1061,NIFT Jobs,fashional
+1063,Night shift Jobs,All Nighters
+1064,Night Shifts Jobs,Service
+1066,Operating room Jobs,Operational
+1067,Operating Systems Jobs,Operational
+1068,Operation Jobs,Operational
+1069,Operation & maintenance Jobs,Operational
+1073,Operation admin Jobs,Operational
+1076,operation administration Jobs,Operational
+1077,Operation Executive Jobs,Operational
+1078,Operation Head Jobs,Operational
+1079,OPERATION MANAGER Jobs,Operational
+1080,Operation specialist Jobs,Specialist
+1081,Operation supervisor Jobs,Supervising
+1082,Operational safety Jobs,Operational
+1083,Operations Jobs,operational
+1084,Operations control center Jobs,Operational
+1085,Operations Direction Jobs,Operational
+1086,Operations Executive Jobs,Operational
+1087,Operations Management Jobs,Management
+1088,Operations Mechanic Chief Engineer Jobs,Executions
+1089,Operations Officer Jobs,Operational
+1090,Operations support Jobs,Support
+1091,Operator Jobs,operational
+1092,Opps concept Jobs,Conceptual
+1093,Ops Manager Jobs,Management
+1094,Opthalmologist Jobs,Speciality
+1095,Optimax Jobs,Speciality
+1096,Optimisation Jobs,Optimisation
+1097,optimisation RF Jobs,Optimisation
+1099,Optimization Jobs,Optimisation
+1100,Optometrist Jobs,Speciality
+1101,Oracle Jobs,Oracle
+1103,Oracle 11i Jobs,Oracle
+1104,oracle 12 Jobs,Oracle
+1105,Oracle Access Manager Jobs,Oracle
+1111,Oracle ADF Jobs,Oracle
+1112,Oracle admin Jobs,Oracle
+1113,Oracle administrator Jobs,Oracle
+1114,Agile Developing Department,Agile Developing Department
+1120,AI/RPA development,Developer
+1123,Amazon App Development,Developer
+1124,Backend Development,Backend Developer
+1125,BIRT Development,Backend Developer
+1126,Cloud Development,Backend Developer
+1127,Database Development,Backend Developer
+1128,Development Operations,Backend Developer
+1129,Facebook Development,Backend Developer
+1130,Frontend Development,Frontend Developer
+1131,Game Development,Backend Developer
+1132,iOS Development,Backend Developer
+1133,Julia Development,Backend Developer
+1135,Mobile Development,Backend Developer
+1136,Sales force App Development,Backend Developer
+1137,Scrum Development,Backend Developer
+1145,Shopify Development,Frontend Developer
+1147,Software Development,Backend Developer
+1148,Web Development,Backend Developer
+1150,Mobile App Development,Backend Developer
+1151,Animated Video Development,Backend Developer
+1152,Leadership Development,Backend Developer
+1153,Personal Development,Backend Developer
+1154,Property Development,Backend Developer
+1161,Report Development,Frontend Developer
+1162,Research and Development,Frontend Developer
+1163,Training Development,Frontend Developer
+1164,Mobile App Testing,Testing
+1165,Mobile Development,Backend Developer
+1167,Oculus Mobile SDK,Backend Developer
+1168,Mobile App Development,Developer
+1169,Windows Mobile,Frontend Developer
+1171,Mobile Sales,Salesman
+1172,Mobile Repair,Salesman
+1173,Mobile Welding,Salesman
+1174,Academic Writing,Academic
+1175,Article Rewriting,Articles
+1176,Article Writing,Artcile writing
+1177,Blog Writing,Blog
+1178,Book Writing,Book writing
+1179,Business Writing,Business
+1180,Content Writing,Content
+1181,Copy writing,skilled Writer
+1183,Creative Writing,Creative writer
+1184,Editorial Writing,editorial
+1185,Essay Writing,Essay
+1186,Ghostwriting,Script
+1187,Grant Writing,Writing
+1188,Medical Writing,Medicational Writing
+1189,Online Writing,Online Writing
+1190,Proposal/Bid Writing,BIDS
+1191,Report Writing,Report
+1192,Research Writing,Research
+1193,Romance Writing,Romantic
+1194,Screenwriting,Screen
+1196,SEO Writing,SEO
+1197,Speech Writing,Speech
+1198,Technical Writing,Technicals
+1199,Test Plan Writing,Test plan
+1200,Test Strategy Writing,Writing
+1201,Travel Writing,Writing
+1202,Legal Writing,Writing
+1203,ABAP Web Dynpro,Writing
+1204,Amazon Web Services,Backend Developer
+1206,Google Web Toolkit,Backend Developer
+1207,Google Webmaster Tools,Backend Developer
+1208,IBM Websphere Transformation Tool,Backend Developer
+1209,Selenium Web driver,Frontend Developer
+1210,Web API,Frontend Developer
+1211,Web Crawling,Frontend Developer
+1212,Web Development,Frontend Developer
+1213,Web Hosting,Frontend Developer
+1214,ABAP Web Dynpro,Backend Developer
+1215,Amazon Web Services Associates,Backend Developer
+1216,Google Web Toolkit,Backend Developer
+1217,Google Webmaster Tools,backend Developer
+1218,Web Scraping,Backend Developer
+1219,Web Security,Backend Developer
+1220,Web Services,Backend Developer
+1221,Webflow,Backend Developer
+1222,webMethods,Backend Developer
+1223,Website Analytic,Backend Developer
+1224,Website Build,Backend Developer
+1225,Website Management,Backend Developer
+1226,Website Optimization,Backend Developer
+1227,Website Testing,Backend Developer
+1228,Web OS,Backend Developer
+1230,Web Page Writer,Backend Developer
+1231,Website Design,Frontend Developer
+1232,Web Search,Frontend Developer
+1233,Social Engine,Frontend Developer
+1234,Social Media Management,Frontend Developer
+1235,Social Networking,Networking
+1236,Software Architecture,Software
+1237,Software Development,Developer
+1238,Software Testing,Developer
+1240,Apple Compressor,Developer
+1241,Sound Design,Designer
+1242,Microsoft Outlook,Developer
+1243,Software Documentation,Developer
+1244,Combination Problem Solving,Developer
+1245,SoC Design,Designer
+1246,Solidworks,Developer
+1247,Virtual Assistant Solutions,IT specialist
+1248,Wireless Sensors,Developer
+1249,Buyer Sourcing,Developer
+1250,Product Sourcing,Product
+1251,Supplier Sourcing,Product
+1252,Social Media Marketing,Social Media
+1253,Social Sales,Social Media
+1254,Social Video Marketing,Social Media
+1255,Software Sales,Product
+1256,Energy and Resource Tax,energy
+1257,General Tax Advisory,Tax
+1258,Human Resources,Resource
+1259,People Soft,Sofit
+1260,Personal Development,Develpment
+1261,Personal Income Tax,Income
+1262,Personal Tax,Personal
+1263,Social Security Tax,Service
+1264,Tax Compliance and Outsourcing,Service
+1265,Visa Ready Resources,Service
+1266,Social Impact,Social Media
+1267,Big Data Sales,Service
+1268,Sales force App Development,Developer
+1269,Sales force Commerce Cloud,Developer
+1270,Sales force Marketing Cloud,Backend Developer
+1271,Sales force Lightning,Backend Developer
+1272,Aircraft Sales,Airline
+1273,Analytics Sales,Analytics
+1274,ATS Sales,Atp
+1275,Channel Sales,Channel
+1276,Cloud Sales,Cloud
+1277,Datacenter Sales,Datacenter
+1278,Digital Agency Sales,Digital
+1279,Enterprise Sales,Enterprise
+1280,Enterprise Sales Management,Sales
+1281,Field Sales,Field
+1282,Field Sales Management,Management
+1283,Financial Sales,Financial
+1284,Health care Sales,Health care
+1285,HR Sales,HR
+1286,IDM Sales,IDM
+1287,Inside Sales,Inside
+1288,ISV Sales,ISV
+1289,Life Science Sales,Life Sciences
+1290,Media Sales,Media
+1291,Medical Devices Sales,Devices
+1292,Mobile Sales,Mobile
+1293,Network Sales,Networking
+1295,OEM Sales,OEM
+1296,Payroll Sales,PAyroll
+1297,Recruiting Sales,Sales
+1298,Retail Sales,Retail
+1299,Saar Sales,Saar
+1300,Sales Account Management,Accounts
+1301,Sales Management,Sales
+1302,Sales Promotion,Promotion
+1303,Security Sales,Security
+1304,Social Sales,Social Sales
+1305,Software Sales,Product
+1306,Technology Sales,Product
+1307,Telecom Sales,Product
+1310,Salesforce CPQ,Product
+1311,Salesforce.com,Product
+1312,Certified Information Systems,IT specialist
+1317,Chef Configuration Management,Manager
+1320,Cinematography,Cinema
+1321,Digital Marketing,Social Media |  Marketing
+1322,Email Developer,Backend Developer
+1323,FileMaker,backend Developer
+1324,Geographical Information System,Developer
+1325,Google Maps API,Backend Developer
+1326,Google Tag Management,Backend Developer
+1327,AAUS Scientific Diver,Backend Developer
+1328,ABC Analysis,Analyst
+1329,AC Drives,Analyst
+1330,Accelerator Physics,Developer
+1331,Acoustical Engineering,Backend Developer
+1332,Aeronautical Engineering,Developer
+1333,Aerospace Engineering,Developer
+1334,Agronomy,Developer
+1335,AI (Artificial Intelligence,Developer
+1336,Aircraft Performance,Airline
+1337,Aircraft Propulsion,Airline
+1339,Aircraft Structures,Airline
+1340,Aircraft Systems,Airline
+1341,Airfield Lighting,Airline
+1342,Air frame,Airline
+1343,Airspace Management,Airline
+1344,Alarm Management,Manager
+1345,Alarm Systems,Developer
+1346,Alchemist,Medicne
+1347,Analog,Medicne
+1348,Anodizing,Medicne
+1349,Anomaly Detection,Medicne
+1350,Anritsu Certified,Medicne
+1351,Antenna Design,Designer
+1352,Anthropology,Medicne
+1353,Apple Home kit,Developer
+1354,Astrophysics,Developer
+1355,Audio Processing,Developer
+1356,Auto Cad,Developer
+1357,Automotive,Developer
+1358,Beagle Bone Black,Developer
+1359,Biotechnology,Developer
+1361,Board Support Package (BSP),Packers
+1363,Broadcast Engineering,Backend Developer
+1365,CAD/CAM,Backend Developer
+1366,Cellular Design,Designer
+1367,Cellular Modules,Developer
+1369,Chemical Engineering,Medicianal
+1370,Circuit Board Layout,Designer
+1371,Circuit Design,Designer
+1372,Civil Engineering,Developer
+1373,Clean Technology,Developer
+1374,Climate Sciences,Nature
+1375,Combinatorial Optimization,Developer
+1376,Combinatorial Problem Solving,Developer
+1377,Compliance Engineering,Developer
+1378,Computational Linguistics,Backend Developer
+1379,Construction Monitoring,Societal
+1380,Consumer Products,Product
+1381,Continuous Integration,Developer
+1382,Controller Area Network,Developer
+1384,Cryptography,Cyber
+1385,Data Mining,Data
+1387,Data Science,Data
+1388,Deep Learning,Data
+1389,Devops,Backend Developer
+1390,DFM (Design for Manufacturing),Designer
+1391,Digital Design,Designer
+1392,Digital Electronics,Developer
+1393,Electrical Engineering,Developer
+1394,Electronic Design,Developer
+1395,Embedded Systems,System
+1396,Engineering Drawing,Designer
+1397,Engineering Mathematics,Developer
+1398,Finite Element Analysis,Developer
+1399,Flex Circuit Design,Designer
+1401,Genetic Algorithms,Backend Developer
+1404,Genetic Engineering,Developer
+1405,Geo spatial,Medicine
+1406,Geotechnical Engineering,Nature
+1407,Graphical User Interface (GUI),Frontend Developer
+1408,Home Design,Designer
+1409,Human Sciences,Data
+1410,Imaging,Frontend Developer
+1411,Industrial Engineering,Developer
+1413,Intercom,Developer
+1414,Internet of Things,Backend Developer
+1415,Intrinsic Safety Applications,Developer
+1416,ISM Radio Module,Signals
+1417,Linear Programming(5),Backend Developer
+1419,Local Interconnect Network,Backend Developer
+1420,Machine Learning (ML),Backend Developer
+1422,Manufacturing Design,Designer
+1423,Materials Engineering,Developer
+1425,Mathematics,Developer
+1427,Mat lab and Mathematica,Developer
+1428,Mechanical Engineering,Developer
+1429,Mechatronics,Developer
+1430,Medical,Medicianal
+1431,Microbiology,Medicianal
+1432,Microcontroller,Developer
+1433,Mining Engineering,Data
+1437,Nanotechnology,Backend Developer
+1438,Natural Language,Backend Developer
+1440,Near Field Communication (NFC),Developer
+1441,Neural Networks,Developer
+1442,PCB Design and Layout,Designer
+1444,Power Amplifier RF,Power House
+1445,Power Converters,Power House
+1446,Power Generation,Power House
+1447,Power Redesign,Power House
+1449,Product End of Life (EOL),Product
+1450,Product Management,Product
+1453,Project Scheduling,Product
+1454,Psychology,Mental Health
+1455,Quality and Reliability Testing,Testing
+1456,Radio Frequency Engineering,Developer
+1457,Rapid Prototyping,Developer
+1458,Renewable Energy Design,Designer
+1459,RFID (Radio-frequency identification),Signals
+1460,Robotic Process Automation,Backend Developer
+1461,Robotics and Cognitive Automation,Backend Developer
+1463,Schematic Review,Backend Developer
+1464,Scientific Computing,Developer
+1465,Scientific Research,Backend Developer
+1466,Serial Peripheral Interface,Backend Developer
+1468,Signal Processing,Signals
+1472,Smart Lighting,Backend Developer
+1473,Smart Phone/Tablet Apps,Developer
+1474,Account Management,Manager
+1475,Account Payable Management,Manager
+1476,Account Receivables Management,Manager
+1479,Administrative Support,Administration
+1480,Alternative Investments,Income
+1482,Annual Report Design,Designer
+1483,Anti Money Laundering,Expertise
+1484,Antitrust Economics,Economy
+1485,Attorney,Legislature
+1487,Audit,Records
+1488,Auto task,Data
+1489,Bank Reconciliation,Banking
+1490,Budgeting and Forecasting,budget
+1493,Business Analysis,Expertise
+1495,Business Analytics,Expertise
+1497,Business Coaching,Expertise
+1498,Business Consulting,Expertise
+1499,Business Plans,Expertise
+1500,Business Requirement Documentation,Documents
+1501,Business Strategy,Expertise
+1502,Care Management,Manager
+1503,Certified Public Accountant,Accounts
+1504,Compensation and Benefits,Accounts
+1507,Compliance and Safety Training,Trainee
+1508,Contracts,budget
+1513,Core Consulting Skills,Skillet
+1515,Core Systems Transformation,System
+1516,Corporate Income Tax,Income
+1517,Corporate Transactions,Income
+1518,Crystal Reports,Records
+1523,Custom Duties Tax,Income
+1525,Customer Experience,Product
+1526,Customer Retention,Product
+1527,Customer Strategy,Product
+1529,Customs and Global Trade Services,Service
+1531,Data Analysis,Data
+1532,EBS Procurement,Data
+1535,Econometric,Data
+1537,Education & Tutoring,Expertise
+1539,Employee Experience,Expertise
+1541,Employee Training,Trainee
+1542,Employment Law,Legislature
+1543,Employment Tax,Income
+1544,Energy and Resource Tax,Income
+1545,Entrepreneurship,Development
+1546,Equity Transaction Advice,Income
+1549,Event Planning,Manager
+1550,Executive Compensation,Service
+1552,Executive Reward,Service
+1554,Expatriate Tax,Income
+1555,External Auditing,Data
+1556,Finance Transformation,Service
+1562,Financial Accounting,Service
+1563,Financial Analysis,Service
+1564,Financial Crime,Service
+1566,Financial Forecasting,Service
+1569,Financial Markets,Service
+1570,Financial Modeling,Service
+1571,Financial Services Tax,Income
+1572,Fraud Detection,Service
+1573,General Tax Advisory,Income
+1575,Global Mobility,Income
+1580,Global Tax Compliance,Income
+1581,Health Care Management,Manager
+1582,Health Planning,Health
+1583,Health Plans Digitization,Care
+1584,Interviewing,Service
+1586,Intuit Quick Books,Service
+1587,Inventory Management,Manager
+1588,Leadership Development,Developer
+1589,Legal Research,Service
+1590,Legal Writing,Service
+1591,Life Science Tax Services,Income
+1592,LinkedIn Recruiting,Developer
+1593,Linnworks Order Management,Manager
+1594,Logistics Company,Manager
+1595,Management Consulting,Manager
+1596,Manufacturing Strategy,Manager
+1597,Market Sizing,Manager
+1598,Media and Entertainment Tax,Social Media |  Marketing
+1599,Operations Research,Developer
+1600,Organization Design,Designer
+1601,Organizational Change Management,Manager
+1602,Paralegal Services,legal
+1603,Personal Development,Developer
+1604,Personal Income Tax,Income
+1605,Private Client,Clerks
+1606,Project Management,Manager
+1608,Project Management Office,Manager
+1609,Property Development,Developer
+1610,Property Management,Manager
+1611,Public Relations,Social Media |  Marketing
+1612,Public Sector and Taxation,Income
+1613,Real Estate,Income
+1614,Real Estate Tax,Income
+1615,Report Development,Developer
+1616,Research and Development,Developer
+1617,Tax Risk Management,Manager
+1619,Salesforce CPQ,Salesman
+1620,Salesforce.com,Salesman
+1621,Shared Services,Salesman
+1623,Social Security Tax,Income
+1624,Start up Consulting,Developer
+1625,Talent Acquisition,Developer
+1626,Tax Accounting,Income
+1627,Tax Centre of Excellence,Income
+1629,Tax Compliance,Income
+1631,Tax Compliance and Outsourcing,Income
+1632,Tax Law,Income
+1633,Tax Management Consulting,Income
+1635,Tax Preparation,Income
+1636,Tax Reporting,Income
+1639,Tax Risk Management,Income
+1640,Tax Technology,Income
+1641,Trademark Registration,Product
+1642,Trading,Packers
+1643,Training Development,Trainee
+1644,Transaction Tax,Income
+1645,Transfer Pricing,Income
+1646,Value Added Tax,Income
+1647,Value Based Health care,Health
+1648,Workday Financial,Income
+1649,Workflow Consulting,Income
+1652,Branding Consultant,Developer
+1653,Press Release Writer,Developer
+1654,Data Modernization,Developer
+1655,Data Visualization,Backend Developer
+1657,Data Warehousing,Backend Developer
+1658,Database Administration,Backend Developer
+1660,Database Development,Backend Developer
+1661,Database Programming,Backend Developer
+1663,DataLife Engine,Backend Developer
+1665,Datatables,Frontend Developer
+1667,DDS,Backend Developer
+1668,Debian,Backend Developer
+1669,Debugging,Backend Developer
+1670,Delphi,Backend Developer
+1671,Development Operations,Backend Developer
+1672,Digital Marketing,Social Media |  Marketing
+1673,Digital Signal Processing,Development
+1674,Django,Backend Developer
+1676,DNS,Backend Developer
+1678,Docker,Backend Developer
+1680,Documentation,Content 
+1681,Dojo,Backend Developer
+1682,DOM,Backend Developer
+1683,DOS,Backend Developer
+1684,Free Switch,Frontend Developer
+1686,Frontend Development,Frontend Developer
+1687,Full Stack Development,Developer
+1688,Game Consoles,Gaming Zone
+1689,Game Design,Gaming Zone
+1690,Game Development,Development
+1692,GameSalad,Developer
+1693,Gamification,Frontend Developer
+1694,Genetic Algebra Modelling System,System
+1696,Geographical Information System (GIS),System
+1699,GIMP,Development
+1701,Git Developer,Development
+1702,Git Hub Developer,Development
+1703,Git Lab Developer,Developer
+1704,Golan,Development
+1707,Google Analytics,Analyst
+1711,Google APIs,Development
+1713,Google App Engine,Development
+1715,Google Cardboard,Development
+1717,Google Chrome,Development
+1719,Google Cloud Platform,Development
+1721,Google Cloud Storage,Development
+1722,Google Docs,Development
+1726,Google Earth,Development
+1727,Google Fire base,Development
+1728,Google Maps API,Development
+1729,Google Page Speed Insights,Development
+1730,Google Plus,Development
+1731,Google Sheets,Development
+1732,Google Tag Management,Management
+1733,Google Web Toolkit,Development
+1734,Google Webmaster Tools,Development
+1735,Go Pro,Development
+1739,GPGPU,Developer
+1744,Grail,Development
+1746,Graphics Programming,Development
+1747,Grease Monkey,Development
+1748,Growth Hacking,Development
+1750,Grunt,Development
+1752,GTK+,Development
+1753,Guide wire,Backend Developer
+1754,Hardtop,Backend Developer
+1755,Handlebars.dis,Backend Developer
+1756,Hardware Security Module,Frontend Developer
+1757,Haskell,Development
+1759,H Base,Development
+1760,Herero,Development
+1762,Heron,Development
+1767,Hewlett Packard,Development
+1769,High charts,Development
+1771,Hive,Development
+1772,Home Kit,Development
+1777,HP Open view,Development
+1779,HP-IX,Development
+1783,HTC Rive,Development
+1784,HTML,Development
+1785,HTML5,Backend Developer
+1788,HTTP,Backend Developer
+1791,i Beacon,Backend Developer
+1792,IBM Blue mix,Backend Developer
+1794,IBM BPM,Backend Developer
+1795,IBM Valvoline,Backend Developer
+1796,IBM Tririga,Backend Developer
+1797,IBM Websphere Transformation Tool,Backend Developer
+1798,IIS,Frontend Developer
+1799,iMacros,Frontend Developer
+1801,Infor,Frontend Developer
+1804,Informatica MDM,Frontend Developer
+1805,Informatica Powercenter ETL(1),Networking
+1806,Instagram,Software
+1807,Instagram API,Developer
+1809,Internet Security,Developer
+1810,Learning Management Solution (LMS) Consulting(1),Management
+1812,Learning Management Systems (LMS)(20),System
+1816,LESS/Sass/SCSS,Developer
+1819,LIBSVM,Developer
+1821,Link Building,Developer
+1822,Linked in,Designer
+1824,LINQ,Developer
+1826,Linux,IT socialist
+1827,Lisp,Developer
+1831,Live Code,Developer
+1833,Local Area Networking,Development
+1834,Lotus Notes,Development
+1835,Lua,Development
+1836,Lucene,Development
+1837,Mac OS,Development
+1839,Magento,Development
+1840,Magento,Service
+1841,Magic Leap,Service
+1844,Managed Analytics,Analysis
+1845,Map Reduce,Service
+1846,Map Kit,Developer
+1848,Maria Db,Service
+1852,MEAN Stack,Development
+1854,Metatrader,Service
+1855,MeteorJS,Service
+1856,MicrosoftOfficer,Developement
+1858,Microsoft Access,Developement
+1859,Microsoft Azure,Developement
+1860,Microsoft Exchange,Developement
+1861,Microsoft Expression,Developer
+1862,Microsoft Hololens,Backend Developer
+1863,Microsoft Project,Backend Developer
+1864,Microsoft SQL Server,Developement
+1865,Microsoft Visio,Developement
+1866,Minecraft,Product
+1870,Minitab,Product
+1873,MMORPG,Developement
+1874,Mobile App Testing,Testing
+1875,Mobile Development,Developement
+1876,MODx,Developement
+1878,MonetDB,Developement
+1880,MongoDB,Developement
+1881,Moodle,Developement
+1882,Moz,Developement
+1883,MQL4,Developement
+1884,R Programming Language,Developement
+1885,Racket,Developement
+1886,RapidWeaver,Developement
+1887,Raspberry Pi,Product
+1888,SEO Analyst,Analysis
+1889,Cloud Engineer,Developement
+1891,Online Instructors,Developement
+1892,Customer support,Developement
+1894,Customer support,Management
+1895,Data Entry Operator,Developement
+1896,Python Developer,Developement
+1897,Web Developer,Developement
+1900,Massage Therapist,Therapy
+1901,Academic counsellor,Developement
+1902,Teaching Faculty,Developement
+1903,Data Entry Operator,Developement
+1904,Communication and Media Interns,Developement
+1907,Data Entry Operator,Developement
+1909,Architect Jobs,Developement
+1910,BPO Jobs,Developement
+1911,Telecaller Jobs,Developement
+1912,Content Writer Jobs,Content
+1913,Data Entry / Back Office,Developement
+1914,Doctor / Physician,Medicine
+1916,"Engineer (Core, Non-IT)",Developement
+1917,HR / Admin Jobs,Administration
+1918,Medical Representative,Medicine
+1919,SEO / Social Media,Social Media |  Marketing
+1920,IT Software-Engineer,Backend Developer
+1921,IT Hardware Engineer,backend Developer
+1922,IT - Mobile Developer,Developer
+1923,Delivery Executive,Backend Developer
+1924,Management Trainee,Backend Developer
+1925,Fashion designer Jobs,Fashion
+1926,Design / Animation Jobs,Designer
+1927,Counsellor Jobs,Counselling
+1928,Media / Journalism / Events,Media
+1929,Chef / Cook Jobs,Cook
+1931,Sales / Marketing Executive,Sales
+1932,IT/Software Jobs,Developer
+1933,Core Technical Jobs,Developer
+1934,Govt Jobs,Developer
+1935,MBA Jobs,Developer
+1936,Internship Jobs,Developement
+1937,Diploma Jobs,Developer
+1938,Research Jobs,Developer
+1939,Defence Jobs,Soldier
+1940,BPO Jobs,Developement
+1941,Part Time Jobs,Developement
+1942,Bank Jobs,Manager
+1943,Walking Jobs,Developer
+1944,Teaching Jobs,Educational
+1945,Dharma Jobs,Medicine
+1946,Start Up Jobs,Development
+1947,BSc/BCA/BBM Jobs,Development
+1948,Scholarships Jobs,Development
+1949,Dream Jobs/5 lpa Jobs,Development
+1950,1 to 3 Yr Exp Jobs,Development
+1951,Tech Support Jobs,Developer
+1952,Health Care Jobs,Health
+1953,Hospitality Jobs,Health
+1954,Retail Jobs,Health
+1955,Journalism Jobs,Media
+1956,Quality Control Jobs,Developer
+1957,Sports Jobs,Sports
+1958,Finance Jobs,Finance
+1959,Manpower Consultants Jobs,Development
+1960,Hire and Train Jobs,Transportation
+1961,Others Jobs,Development
+1962,Relationship Science India Pri...,Developer
+1963,Telligent Support LLP Recruitm...,Medicianal
+1964,HDFC Life Executives,Development
+1965,Extramarks Education India Pvt...,Development
+1966,HDFC Life Insurance,Income
+1967,ByteDance,Developer
+1968,Bytedance,Development
+1969,Awign Hiring for VOGO,Developer
+1970,Clone Futura Engineers,Developer
+1971,RANDSTAD INDIA PVT LTD,Developer
+1972,Bhatia Consultancy Services,Service
+1973,ACZ Global officers,Service
+1974,Govt. of Chhattisgarh officers,Service
+1975,Infotech Explorer India P Limi...,Developer
+1976,Aerospace engineer,Developer
+1977,Kerala Agricultural University...,Argo
+1978,Chaitanya Pharmaceuticals Pvt....,Pharma
+1979,Algo Infotech,Data
+1980,Physical Research Laboratory R...,Data
+1981,Sikkim University Recruitment,Educational
+1982,Premium Jobs,Development
+1983,Nimesa Technology,Development
+1984,DXC Technology,Development
+1985,Dell Technologies,Development
+1986,Xoken Labs,Development
+1987,Aptean Recruitment,Development
+1988,CGI,Service
+1989,Pelatro,Service
+1990,XAdapter,Service
+1991,CAMSDATA Technologies India Pv..,Development
+1992,Civil Engineering Jobs,Backed Developer
+1993,Mechanical Engineering Jobs,Medicine
+1994,Chemical Engineering Jobs,Chemicals
+1995,ISRO Recruitment For Engineers,Development
+1996,DRDO Recruitment for Engineers,Development
+1997,RRB Recruitment for Engineer,Development
+1998,BEL Recruitment for Engineers,Data
+1999,Aeronautical Engineering Jobs,Development
+2000,Computer Science Engineering Jobs,Developer
+2001,ECE Jobs,Developer
+2002,Captcha Typing Jobs,Typing
+2003,Internet Research Jobs,Developer
+2004,Restful  API,Developer
+2005,Revit,Backend Developer
+2006,Revit Architecture,Backend Developer
+2007,Roadnet,Backend Developer
+2008,Roblox,Designer
+2009,Rocket Engine,Developer
+2010,RSS,Developer
+2011,Ruby,Developer
+2012,Ruby on Rails,Developer
+2013,Rust,Developer
+2014,RxJS,Developer
+2015,Sails.js,Developer
+2016,Salesforce App Development,Developement
+2017,Salesforce Commerce Cloud,Developement
+2018,Salesforce Marketing Cloud(4),Developer
+2019,Samsung Accessory SDK(0),Backend Developer
+2020,SAP,Developer
+2021,SAP 4 Hana,Developer
+2022,SAP BODS,Designer
+2023,SAP Business Planning and Consolidation(5)闁绘梹鍎奸幎妤呮偄閹増濮(1),Development
+2024,SAP CPI,Development
+2025,SAP HANA,Development
+2026,SAP Hybris,Development
+2027,SAP Pay,Development
+2028,SAP PI,Development
+2029,SAP Transformation,Development
+2031,Sass,Development
+2032,Scala,Developement
+2033,Scheme,Developer
+2034,Sci kit Learn,Developer
+2035,SciPy,Designer
+2036,SCORM,Developement
+2037,Scrapy,Developement
+2038,Script Install,Backend Developer
+2039,Scripting,Backend Developer
+2040,Scrum,Developer
+2041,Scrum Development,Backend Developer
+2042,SD-WAN,Backend Developer
+2043,SDW N17 Service Qualification,Developement
+2044,Segment,Backend Developer
+2045,Selenium,Developer
+2046,Selenium Web driver,Manager
+2047,Sencha / YahooUI,Development
+2048,SEO,Development
+2049,SEO Auditing,Development
+2050,Server,Development
+2051,Server to Server Facebook API Integration(2),Development
+2052,ServiceNow,Development
+2053,SFDC,Development
+2054,Share point,Development
+2055,Shell Script,Development
+2056,Shopify,Development
+2057,Shopify Development,Development
+2058,Shopping Cart,Development
+2059,Siebel,Development
+2060,Silverlight,Development
+2062,Sketching,Expertise
+2063,Slack,Expertise
+2064,Smarty PHP,Expertise
+2065,Snapchat,Developement
+2066,Social Engine,Expertise
+2067,Social Media Management,Manager
+2068,Social Networking,Developement
+2069,Socket IO,Developement
+2070,Software Architecture,Developement
+2071,Software Development,Developement
+2072,Software Testing,Testing
+2073,Solaris,System
+2074,Soldering,Development
+2075,Solutions Architecture,Development
+2076,Spark,Development
+2077,Sphinx,Development
+2078,Splunk,Development
+2079,SPSS Statistics,Development
+2080,SQL,Development
+2081,SQLite,Development
+2082,Squarespace,Development
+2083,Squid Cache,Development
+2084,SSIS (SQL Server Integration Services),Development
+2085,Product Management,Management
+2086,Xamarin Form Developer,Development
+2087,Immediate Hiring For Illustrator,Development
+2088,Looking For Freelance AI Book Author,Development
+2089,Freelance Sales Business Development,Development
+2090,Technical Content Writer,Content
+2091,Bicycle Courier,Development
+2092,Car Courier,Development
+2093,Car Driving,Driver
+2094,Cargo Freight,Service
+2095,Container Transport,Service
+2096,Container Truck,Service
+2097,Courier,Service
+2098,Delivery,Service
+2099,Dropshipping,Service
+2100,Dry Van Trucking,Service
+2101,Flatbed Trucking,Service
+2102,Flower Delivery,Service
+2103,Food Takeaway,Service
+2104,Freight,Service
+2105,Frozen Trucking,Service
+2106,Furniture Removalist,Service
+2107,Haulier,Service
+2108,Heavy Haulage(,Service
+2109,Heavy Haulage Trucking,Service
+2110,Hiab Crane Trucking,Manager
+2111,Import/Export,service
+2112,Line Haulage,Service
+2113,Logistics,Service
+2114,Motorcycle Courier,Service
+2115,Moving,Manager
+2116,Packing & Shipping,Manager
+2117,Parcel Delivery,Service
+2118,Pickup,Service
+2119,Reefer Trucking,Service
+2120,Removal Services,Service
+2121,Shipping,Manager
+2122,Truck Courier,Manager
+2123,Trucking,Manager
+2124,Van Courier,Manager
+2125,Sales Account Management(3),Manager
+2126,Sales Management,Sales
+2128,Sales Promotion,salesman
+2130,Search Engine Marketing,Marketing
+2131,Security Sales,salesman
+2132,Somoza,Development
+2133,Social Media Marketing,Developer
+2134,Social Sales,Sales
+2135,Social Video Marketing,Clerks
+2136,Software Sales,Manager
+2137,Technology Sales,Manager
+2138,Telecom Sales,Manager
+2139,Telemarketing,Marketing
+2140,Twitter Marketing,Social Media |  Marketing
+2141,Viral Marketing,Marketing
+2142,Visual Merchandising,Marketing
+2143,WooCommerce,Marketing
+2144,Clerk Jobs,Service
+2145,Computer Jobs,Service
+2146,Steno Typist Jobs,Service
+2147,Assistant Jobs,Service
+2148,Driver Jobs,Service
+2149,Nurse Jobs,Service
+2150,Sport Jobs,Service
+2151,Teacher Jobs,Service
+2152,Agriculture Jobs,Service
+2153,IT Software Jobs,Service
+2154,Police Jobs,Service
+2155,PWD Jobs,Service
+2159,Faculty Jobs,Service
+2160,Assistant Company Secretary,Assistance
+2161,System Manager,System
+2162,System Executive,System
+2163,Banking Assistant,Assistance
+2164,Project Associate,Associates
+2165,Temporary Assistant Professor,Expertise
+2166,Temporary Assistant Professor - Geography,Expertise
+2167,Clerk,Service
+2168,Legal Officer,Officials
+2169,Officers grade A,Service
+2170,Officers Grade B,Service
+2171,Officers Grade C,Service
+2173,Fishery Development Officer,Development
+2174,Research Assistant,Assistance
+2176,Assistant Professor,Expertise
+2177,Junior Engineer,Development
+2178,Junior Research FellowShip,Research
+2180,State Engineering Service,Service
+2181,Forest Ranger,Forest Department
+2182,Fee Collector,Service
+2183,Medical Officers,Medicine
+2184,Chemical Supervisors,Laboratory
+2186,Tailor,Service
+2187,Carpentry,Service
+2188,Store Keeper,Business
+2189,Private Secretary,Service
+2190,Technical Assistant,Assistance
+2191,Business development officers,Development
+2193,Agricultural Consultant,Agro
+2194,Doctor of Medicine (MD),Medicine
+2195,Business development officers and marketing researchers,Development
+2197,Assistant Professor,Assistance
+2200,Architect,Architecture
+2201,Brickmasons,Service
+2202,Stonemasons,Service
+2203,Carpet Installers,Service
+2204,Tile Installers,Service
+2205,Floor INstallers,Service
+2206,Construction workers,Service
+2207,Construction Managers,Managements
+2208,Drafters,Service
+2210,Electricians,Service
+2212,Roofers,Service
+2214,Pipelayers,Service
+2215,Surveyors,Service
+2219,Steamfitters,Service
+2221,Lower Division Clerks,Service
+2227,Upper Division Clerks,Service
+2231,Senior Division Clerks,Service
+2232,Junior Clerk cum Typist,Typing
+2236,Commercial cum Ticket Clerk,Service
+2237,Clerk cum Computer Operator,Service
+2238,Clerk cum Junior Data Entry Operator,Service
+2239,Stenographer,Service
+2240,Home guards,Service
+2241,Copyist,Service
+2243,Director,Service
+2244,Registrar,Service
+2245,Peon,Service
+2246,Scientist,Service
+2247,Assistant Manager,Managements
+2248,Programme Associates,Service
+2249,Engineering Services,Service
+2250,Technical Services,Service
+2252,Physical Instructor,Service
+2253,Sweeper,Service
+2254,Patwari,Service
+2255,IOCL Recruitment 2020,Service
+2256,BEL Recruitment 2020,Service
+2257,ONGC Recruitment 2020,Service
+2259,BHEL Recruitment 2020,Service
+2260,NLC Recruitment 2020,Service
+2261,BPCL Recruitment 2020,Service
+2262,HPCL Recruitment 2020,Service
+2263,OIL Recruitment 2020,Service
+2264,BARC Recruitment 2020,Service
+2265,NCBS Recruitment 2020,Service
+2266,MMTC Recruitment 2020,Service
+2267,HLL Recruitment 2020,Service
+2268,MFL Recruitment 2020,Service
+2269,MRPL Recruitment 2020,Service
+2271,MDL Recruitment 2020,Service
+2272,HAL Recruitment 2020,Service
+2273,GAILRecruitment 2020,Service
+2275,SAIL Recruitment 2020,Service
+2276,EIL Recruitment 2020,Service
+2278,NPCIL Recruitment 2020,Service
+2279,HIL Recruitment 2020,Service
+2280,HSCC Recruitment 2020,Service
+2282,NRL Recruitment 2020,Service
+2283,Cochin Shipyard Recruitment 2020,Service
+2284,MPSC Recruitment,Service
+2285,UPPSC Recruitment,Service
+2286,TNPSC Recruitment,Service
+2287,HSSC Recruitment,Service
+2288,MPPSC Recruitment,Service
+2289,APPSC Recruitment,Service
+2290,BSSC Recruitment,Service
+2291,KPSC Recruitment,Service
+2292,UPSSSC Recruitment,Service
+2294,UKPSC Recruitment,Service
+2295,WBPSC Recruitment,Service
+2296,TSPSC Recruitment,Service
+2297,APSC Recruitment,Service
+2300,RPSC Recruitment,Service
+2301,OSSSC Recruitment,Service
+2302,GPSC Recruitment,Service
+2303,HPSC Recruitment,Service
+2304,PPSC Recruitment,Service
+2305,JKPSC Recruitment,Service
+2306,Goa PSC Recruitment,Service
+2307,Tripura PSC Recruitment,Service
+2310,NPSC Recruitment,Service
+2311,Arunachal Pradesh PSC Recruitment,Service
+2312,PSC Recruitment,Service
+2313,PSC Recruitment,Service
+2314,PSC Recruitment,Service
+2315,Pharmacist,Specialist
+2316,Optomerist,Specialist
+2318,Teacher Jobs,Service
+2320,Veterinian,Service
+2321,Environmental Compliance Inspectors,Service
+2322,Environmental Engineering Technicians,Technicians
+2323,"Farmworkers and Laborers, Crop",Service
+2324,First-Line Supervisors of Animal Husbandry,Agro
+2325,First-Line Supervisors of Aquacultural Workers,Agro
+2327,First-Line Supervisors of Logging Workers,Agro
+2328,Fish and Game Wardens,Managements
+2329,Foresters,Forest Department
+2330,Log Graders and Scalers,Forest Department
+2331,Nursery Workers,Plantation
+2333,Occupational Health and Safety Specialists,Speciality
+2334,Pest Control Workers,Agro
+2335,Precision Agriculture Technicians,Agro
+2336,Recycling and Reclamation Workers,Working Heads
+2337,Recycling Coordinators,User Experience
+2338,Soil and Water Conservationists,User Experience
+2339,Wellhead Pumpers,Service
+2340,Wildlife Biologists,Service
+2342,Air Crew Members,Service
+2344,Armored Assault Vehicle Officers,Service
+2345,Missile Crew Members,Army
+2346,Missile Officers,Army
+2347,Assessors of Real Estate,Property
+2348,Regional Planning Aides,Service
+2349,Control Center Officers,Service
+2350,Compliance Officers,Service
+2351,Court Clerks,Service
+2352,Criminal Investigators,Service
+2353,Supervisors of Air Crew Members,Airline
+2354,Government Property Inspectors and Investigators,Service
+2355,Infantry Officers,Service
+2356,Legislators,Legislation
+2357,License Clerks,Service
+2359,Municipal Clerks,Service
+2360,Postal Service Mail Carriers,Service
+2361,Radar and Sonar Technicians,Service
+2362,Special Forces Officers,Army
+2363,Special Forces,Army
+2364,Transportation Inspectors,Service
+2365,Urban and Regional Planners,Service
+2366,Airfield Operations Specialists,Speciality
+2367,Flight Engineers,Development
+2368,Automotive Body and Related Repairers,Service
+2369,Automotive Master Mechanics,Service
+2370,Aviation Inspectors,Aviation
+2371,Posting Clerks,Service
+2372,Lock Tenders,Service
+2373,Bus Drivers,Service
+2374,Cargo and Freight Agents,Air force
+2375,Cleaners of Vehicles and Equipment,Service
+2376,Customs Brokers,Service
+2377,Industrial Truck and Tractor Operators,Service
+2378,Logisticians,Service
+2379,Motorcycle Mechanics,Service
+2380,Rail Car Repairers,Railway
+2381,Civil services,Service
+2382,IAS officers,Service
+2383,IFS officers,Service
+2384,IPS officers,Service
+2385,State Public Service Commission,Service
+2386,Officers in Indian Railway,Railway
+2387,Government Lecturer/ University Professors,Service
+2388,Insurance ADO/AAO,Service
+2389,Government doctors,Service
+2390,"SRF, Project Asst, Research Associate",Service
+2391,"Schools, Libraries",Service
+2392,Electricity,Service
+2393,Emergency Services,Service
+2394,Fire Service,Service
+2395,Gas and Oil,Service
+2396,Healthcare,Service
+2397,Infrastructure,Expertise
+2398,Law Enforcement,Legislation
+2399,Police Services,Service
+2400,Postal Service,Service
+2401,Public Transit,Transits
+2402,Social Services,Service
+2403,Waste Management,Service
+2404,Poultry Farm Worker,Service
+2405,Agriculture Helper,Agro
+2406,Agriculture Worker,Agro
+2407,Restaurant Waiter,Service
+2408,Chief Steward,Service
+2409,Nursing Attendant Ward boy,Service
+2410,Hospital Ward Boy,Service
+2411,Personal Secretary,Service
+2412,Assistant Company Secretary,Service
+2413,Security Guard,Service
+2414,Security Supervisor,Service
+2415,Security Officer,Service
+2416,Store Incharge,Service
+2417,Receptionist,Managements
+2418,Female Receptionist,Managements
+2419,Front Desk Receptionist,Managements
+2420,Car Painter,Painters
+2421,Packager,Service
+2422,Carpenter,Service
+2423,Ac Technician,Service
+2424,Diesel Mechanic,Service
+2425,Mechanic,Service
+2427,Temporary Assistant Professor - Economics,Service
+2428,marketing researchers,Service
+2429,Junior Research Fellow- 1 Vacancy,Service
+2430,Junior Research Fellow,Service
+2431,Scientific Officer - 2,Service
+2432,Senior Research Fellow,Research
+2433,Relationship Manager,Managements
+2434,Security Inspector - 1,Service
+2435,Laboratory Assistant -,Service
+2436,Lower Division Clerk,Service
+2437,"Stenographer,Library Clerk",Service
+2438,Project Assistant III,Service
+2439,Data Analyst - 2,Data
+2440,HOD -1,Service
+2441,Lab Technician - 8,Service
+2442,Staff Nurse,Nursing
+2443,Radiographer,Speciality
+2445,Post Doctoral Fellow,Medical
+2446,Field Assistant- 1,Assistance
+2447,Chief Executive Officer,Executives
+2448,Manager - 1,Managements
+2449,Field Worker - 1,Expertise
+2450,Quality Manager,Managements
+2451,Operation Manager,Officials
+2453,Joint Chief Project Manager,Managements
+2454,Project Associate,Associates
+2455,Programme Manager,Service
+2456,Crypto Analysts,Analysis
+2457,Digital Forensic Expert,Service
+2458,Content Developer,Content
+2459,Cyber Crime Investigator,Cyber
+2460,Software Programmer,Development
+2461,Network Forensic Expert,Service
+2462,Malware Researchers,Research
+2463,Project Scientist,Scientist
+2464,Assistant Engineer,Engineer
+2465,Environmental Scientist,Laboratory
+2467,Chief Operating Officer -,Service
+2468,Senior Section Engineer,Service
+2469,Station Manager,Business
+2470,Section Engineer,Service
+2471,Chief Traffic Controller,Traffic
+2472,Soldier General Duty,Army
+2473,Research Associate,Agro
+2474,Assistant/ Clerk,Service
+2475,Junior Assistantan,Development
+2476,Dean,Assistance
+2478,Project Officer,Officials
+2479,Project Coordinator,Service
+2481,Subject Matter Expert,Service
+2482,Master Trainer -,Service
+2483,Executive Director,Service
+2485,Scientist B,Service
+2486,Scientific/ Technical Assistant,Service
+2487,Village Accountant,Managements
+2488,Professor,Service
+2490,Guest Lecturer ,Service
+2491,Forest Guard,Service
+2492,Insurance Medical Officer,Service
+2493,Second Division Assistant,Service
+2494,Field Data Collector,Service
+2495,Deputy Chief Mechanical Engineer -,Service
+2496,Hospital Administrator,Administration
+2497,Consultant,Service
+2498,Executive Associate B,Service
+2499,Home Guard -,Service
+2500,Scientist G,Service
+2501,Project Assistant III,Service
+2502,Casualty Medical Officer,Officials
+2504,Senior Resident,Service
+2505,Demonstrator,Service
+2506,Executive Engineer,Executives
+2507,Civilian Motor Transport Driver,Service
+2511,Multi Tasking Staff,Service
+2513,Registrar,Service
+2514,Senior Executive,Service
+2515,Executive Assistant,Assistance
+2516,Additional General Manager,Managements
+2517,Resident Consultant,Service
+2518,Project Scientist,Service
+2519,Administrative Officer,Officials
+2520,Personal Secretary,Service
+2521,Scientist III/Assistant Professor,Service
+2522,Procurement Manager,Managements
+2523,Microsoft PowerBI Administrator,Administration
+2524,Microsoft SQL Server Database Administrator,Service
+2525,Deputy Executive Engineer,Service
+2526,Assistant Placement officer,Service
+2527,Placement and Customer Relations Officer,Service
+2528,Physical Training Instructor,Service
+2529,"Assistant Professor Grade-I,II,III",Service
+2530,Engine Driver/Syrang,Service
+2531,Dinggi Driver.Seaman Mechanic,Service
+2532,Mineral Development Officer,Development
+2533,Postdoctoral Fellow,Service
+2534,Personal Assistant,Service
+2535,Medical Specialist,Speciality
+2536,Block Primary Education Officer,education
+2537,Head Master/Head Mistresses,Service
+2539,Functional Manager,Managements
+2540,Officer Grade A,Service
+2541,Technical Officer,Officials
+2542,Library Information Assistant,Service
+2545,Private Secretary,Service
+2546,Technical Member,Service
+2548,Library Clerk,Service
+2549,Library Clerk,Librarian
+2550,Nursing Superintendent,Service
+2551,Deputy Director,Service
+2552,Assistant Director General,Service
+2553,Forest Settlement Officer,Forest Department
+2554,Senior Research Fellow,Service
+2555,Finance Consultant,Service
+2557,Administration Consultant,Administration
+2558,Block Project Assistant,Assistance
+2559,Block Coordinator,Service
+2560,Emeritus Scientist,Service
+2561,Senior Project Research Officer,Service
+2562,Scientist B,Service
+2563,Medical Social Worker,Service
+2565,Senior Technical Advisor,Advising
+2566,Junior Project Advisor,Advising
+2567,Senior Project Advisor,Advising
+2568,Field assistant/ Field supervisor,Supervising
+2569,Field Worker,Service
+2570,Medical Specialist / Medical Officer,Service
+2571,Postdoctoral Fellow,Service
+2572,CEO,Service
+2573,Business Manager,Managements
+2574,Election Kanungo,Service
+2575,Fitter Instructor,Instruction
+2577,Work Supervisor,Supervising
+2579,Inspector,Service
+2580,Subject Matter Specialist,Specialist
+2581,Programme Assistant,Service
+2582,Staff Car Driver,Service
+2583,"Administrative Officer,",Managements
+2585,Soldier Technical,Technicians
+2586,General Medical Consultant,Service
+2587,Vice President,Service
+2589,Junior Marketing Officer/Marketing Officer,Marketing
+2590,Senior Resident,Service
+2594,Director/Distribution,Managements
+2596,Scientist D,Forest Department
+2597,Scientist F,Forest Department
+2598,Scientist E,Service
+2599,Scientist C,Service
+2600,Program cum Incubation Manager,Managements
+2605,Junior Program Associate,Program
+2606,Principal Private Secretary,Working Heads
+2607,Senior Program Associate,Service
+2609,Deputy Engineer,User Experience
+2610,Senior Designer,Designing
+2611,Associate Senior Design Instructor,Service
+2612,Preservation Assistant,Service
+2613,Controller of Examination,Service
+2615,Nursing Officer,Army
+2616,Post Doctoral Fellow/ Research Associate,Army
+2617,Civil Judge,Service
+2618,Principal Scientist,Service
+2620,Research Technician,Service
+2621,"Additional General Manager, Deputy General Manager",Managements
+2622,Tutor,Service
+2624,Bus Drivers,Service
+2625,"Deputy General Manager,Deputy Manager",Airline
+2626,Revenue Inspector,Service
+2627,Tehsildar/Nayab Tehsildar,Service
+2628,Forest Guard,Forest Department
+2629,Assistant Registrar,Assistance
+2630,Associate Scientist,Service
+2631,Curator And Deputy Curator,Service
+2633,SAP Program Manager,Managements
+2634,SAP HCM Functional Consultant,Army
+2635,Banking Assistant,Assistance
+2636,Anganwadi Worker,Service
+2637,Judicial Services,Service
+2638,Yoga Instructor,Service
+2639,Assistant Programme Officer,Development
+2640,Programme Officer,Service
+2641,Senior Stenographer,Service
+2642,General Duty Medical Officer,Medical
+2643,Soldier Clerk/,Service
+2644,Accountant,Service
+2647,Graduate Engineer,Service
+2648,Draughtsman,Service
+2649,Office Assistant,Service
+2650,Designer Grade-IV,Service
+2651,Driver Grade V,Service
+2652,Deputy General Manager,Managements
+2653,Senior Investigator,Service
+2654,Legal Assistant,Assistance
+2655,Senior Document Controller,Service
+2656,Associate Document Controller,Service
+2657,Auxiliary Nurse Midwifery,Service
+2659,Research Assistant,Service
+2660,Project Attendant,Service
+2661,Graduate Executive Trainee,Executives
+2662,Graduate Apprentice Engineer,Service
+2664,Joint commissioner,Service
+2668,Competent Authority and Administrator,Administration
+2669,X Ray Technician,Development
+2670,"Fireman,Mazdoor",Service
+2671,Research Associate,Speciality
+2672,Lecturer,Education
+2673,Secretary to Dean,education
+2674,Junior Assistant,Working Heads
+2676,Pharmacist,Specialist
+2677,Multi Purpose Health Worker,User Experience
+2678,National Post Doctoral Fellowship,Service
+2681,Teaching Assistant,Assistance
+2682,State Mission Manager,Managements
+2683,MIS Assistant,Service
+2686,Deputy Director,Service
+2687,Joint Director,Service
+2688,Constable,Police
+2689,Registrar,Service
+2690,Project Manager,Managements
+2691,Post Doctoral Fellow,Development
+2692,Field Data Collector,Data
+2693,Soldier Nursing Assistant,Service
+2694,Soldier Tradesman,Army
+2696,Soldier General Duty,Army
+2697,Soldier Clerk,Service
+2699,Risk Analyst,Analyst
+2700,Economist,Service
+2701,Information System Auditor,Audit
+2702,System Administrator,System
+2704,Block Primary Education Officer,Service
+2706,Head Master/ Head Mistresses,Service
+2707,Deputy Director,Service
+2708,Senior Deputy Chief Accounts Officer,Accountants
+2709,Deputy Chief Engineer,Service
+2710,Senior Finance & Accounts Officer,Finances
+2712,Estate Manager,Managements
+2713,Library and Information Assistant,Assistance
+2714,Chairperson-Cum-Member,Service
+2715,Post Doctoral Fellowship,Service
+2716,Visiting Faculty,Service
+2717,Harbour Master,Service
+2718,Soldier,Service
+2719,Assistant General Manager,Managements
+2720,Staff Field Officer,Officials
+2721,Deputy Director,Service
+2722,Personal Assistant / Steno,Assistance
+2723,"Assistant Accounts Officer, Deputy Director",Officials
+2724,Surveyors,Service
+2725,Patwari,Service
+2726,Assistant Development Commissioner,Service
+2727,Competent Authority,Service
+2728,Senior Physician,Speciality
+2729,Midwife,Service
+2730,Head Constable,Service
+2731,Programme Assistant,Assistance
+2732,Senior Scientist and Head,Service
+2733,Purchase Officer,Service
+2734,Data Processing Assistant,Data
+2735,"Registrar, Senior Store Officer",Service
+2736,Computer Data Processor,Data
+2738,Principal Private Secretary,Service
+2739,Senior Principal Private Secretary,Service
+2741,Assistant Library,Service
+2745,Senior Investigator,Investigations
+2746,Legal Assistant,Service
+2747,Library Information Officer,Expertise
+2748,Store Keeper,Service
+2749,Extension Officer,Service
+2750,Junior Accountant,Service
+2751,Deputy Advisor,Advising
+2752,Sub Inspector,Service
+2753,Laboratory Attendant,Service
+2754,Steno,Service
+2755,Joint Assistant Director,Service
+2757,Deputy Construction Engineer,Service
+2758,Senior Administrative Officer,Service
+2759,Hindi Teacher,Service
+2761,English Teacher,Service
+2762,Teacher (Urdu),Service
+2763,Paribesh Bandhu,Service
+2764,Conservancy Mazdoor,Service
+2766,Sub Assistant Engineer,Service
+2767,Special Judicial Magistrates,Judiciary
+2769,Chairman and Managing Director,Managements
+2770,Director,Service
+2771,Junior Assistant Planner,Planner
+2772,Assistant Engineer Civil,Managements
+2774,Surveyor,Managements
+2775,Sub Assistant Engineer (Civil),Service
+2776,Sergeant,Service
+2779,Doctoral Research Programme,Service
+2780,"Senior Aircraft Mechanic,Senior Radio Mechanic",Service
+2781,Inspector/Storeman,Service
+2782,Sub Inspector,Service
+2783,Assistant Electrical Engineer,Service
+2784,First Officer,Service
+2786,Transition Commander,Service
+2787,Head Research and Innovation,Service
+2788,Microsoft PowerBI Administrator,Administration
+2789,Microsoft SQL Server Database Administrator,Accountants
+2790,Vice President,Service
+2791,SAP HCM Functional Consultant,Service
+2792,SAP Program Manager,Managements
+2793,Banking Assistant Grade II,Service
+2794,System Administrator,Service
+2795,Project Administrator,Service
+2796,Network Administrator,Administration
+2797,Programming Officer,Officials
+2798,Senior First Officer,Officials
+2799,Special Metropolitan Magistrates,Speciality
+2800,Information Officer,Officials
+2801,Store Keeper Technical,Service
+2802,Inventory Management,Managements
+2803,Chief Project Manager,Managements
+2804,"Executive Engineer, Assistant Executive Engineer",Managements
+2805,"Consultant, Young Professional",Service
+2806,"Senior Resident, SMO",Managements
+2807,"DGM, GM",Officials
+2808,Manager (Architech),Managements
+2809,Jr. Manager,Associates
+2810,Dy Advisor (Civil Engineering),Service
+2812,Deputy Engineer,Service
+2815,Industrial Trainee,Service
+2816,Apprentice,Expertise
+2817,Deputy HOD Civil,Service
+2819,"DEO, Investigator",Development
+2820,"Management Trainee,",Service
+2822,DGM (Mech),Research
+2824,"Manager, Sr Accounts Officer",Managements
+2826,Member Technical Staff,Engineer
+2827,"Manager, Fire Officer",Officials
+2828,Yantrik Technical,Service
+2829,"SI, HC, AC Technician",Service
+2832,Start-Up Fellow,Business
+2835,Joint Advisor,Advising
+2836,"IAS, IFS",Service
+2837,Probationary Manager,Managements
+2839,Technician Apprentice,Service
+2840,"P&O, Audiologist, Team Leader",Service
+2841,Senior Manager,Managements
+2843,Office Superintendent,Assistance
+2844,City Manager,Officials
+2845,District Data Manager IDSP,Service
+2846,Chairman,Service
+2847,"Consultant, Asst Professor",Service
+2848,Assistant Hospital Administrator,Administration
+2849,Hospital Administrator,Administration
+2850,"Research Associate, Consultant",Service
+2851,Computer Programmer,Managements
+2852,Medical Microbiology,Medical
+2853,Project Associate,Associates
+2855,Laboratory Assistant -,Associates
+2856,Scientist H,Service
+2857,Sr. Resident,Service
+2858,JRF,Service
+2859,"Mobile Forensic Expert,",Service
+2860,Data Analyst,Data
+2861,Assistant Executive Engineer,Service
+2862,Graduate Executive Trainee,Service
+2863,"Consultant, Young Professional",Service
+2864,Jr. Manager,Managements
+2866,Industrial Trainee,Service
+2867,JRF & SRA,Officials
+2868,DGM (Mech),Service
+2869,DGM (Mech),Service
+2870,DGM (Mech),Service
+2871,Sr Accounts Officer,Service
+2872,"SI, HC, AC Technician",Service
+2874, Senior Faculty,Service
+2875,Civil Judge,Service
+2876,City Manager,Managements
+2877,Mineral Development Officer,Development
+2878,Medical Record Technician (MRT),Service
+2879, Food Safety Officer,Officials
+2880,KVK,Service
+2881,Dy Advisor (Civil Engineering),Service
+2882,ANM,Service
+2883, AM/ Manager,Managements
+2884,Steno Assistant Sub Inspector,Administration
+2885,Director RSETI,Service
+2886,Counselor FLCC,Service
+2887,1st Inter Combined Competitive,Service
+2888,PLV,Service
+2889,JRF,Service
+2890, Scientist,Service
+2891,Member Technical Staff,Service
+2892,CMP Doctor,Medical
+2893,Para Medical Staff,Medical
+2894,Sr. Resident,Service
+2897,General Manager (S&T),Managements
+2898,Dy CPM/ PM ,Service
+2899,Part Time Super Specialist,Speciality
+2900,AGM/ JGM/ DGM,Service
+2901,Explosive Expert,Managements
+2902,Office Assistant,Service
+2903,Associate Professor,Officials
+2904,Commi-IV,Service
+2905,"DEO, Investigator",Service
+2906,Senior Manager,Managements
+2907,Stores Officer,Service
+2908,Field Assistant,Service
+2912,Non Teaching Posts,Service
+2913,Administrative Posts,Administration
+2915,Various Assistants,Service
+2916,Accountant,Accountants
+2917,Bank Assistant,Service
+2918,Various Assistants,Service
+2919,Assistant Review Officer,Administration
+2920,Yoga Therapist,Therapy
+2921,Junior Judicial Assistant,Assistance
+2922,Master Cadre Teachers,Service
+2923,"Personnel Officer,",Service
+2924,Technician Diploma Apprentices,Service
+2925,"Clerk, Assistant",Service
+2926,Nursing Superintendent,Nursing
+2927,House Surgeons,Medicine
+2928,"Senior Document Controller,",Service
+2929,Joint Chief Project Manager (Civil Depot) - 01,Managements
+2930,Assistant Loco Pilot,Assistance
+2932,Experienced Engineers,Service
+2935,Housekeeping Assistant,Service
+2936,GDMO,Service
+2937,Contract Medical Practitioners,Medicine
+2938,Act Apprentices,Service
+2939,Para Medical Staff,Medicine
+2940,Officer Superintendent,Supervising
+2941,"General Manager,",Managements
+2942,Director (Finance),Finances
+2943,Contract Medical practitioners,Medicine
+2944,Ministerial and Isolated Categories,Service
+2945,Gramin Dak Sevaks,Managements
+2946,Forest Guard,forest Department
+2947,Junior Stenographer,Service
+2948,Ward Boy,Service
+2949,Vocational Instructor,Service
+2950,Motor Driver cum Mechanic,Service
+2951,Junior Chemist,Service
+2952,State Mission Manager,Managements
+2953,Information Systems,System
+2956,Nursing Superintendent,Nursing
+2959,House Surgeons,Service
+2961,Assistant Loco Pilot,Managements
+2962,Experienced Engineers,Service
+2964,Non Technical Popular Categories (NTPC),Working Heads
+2966,Data Entry Operator (DEO),Data
+2967,Assistant Review Officer,User Experience
+2968,"LDC, MTS - 02",Service
+2969,Assistant Sports Officer,Service
+2970,Block Primary Education Officer,Service
+2971,Tripura Police Service,Service
+2972,Postman,Service
+2973,Gym Instructor,Service
+2974,Sports Officer,Service
+2975,Direct Entry Petty Officer,Service
+2976,"Computer Operator, DEO",Service
+2977,Assistant Public Prosecutor,Service
+2978,Legal Advisor,Service
+2979,Legal Assistant - 01,Service
+2981,Assistant Registrar,Service
+2982,Sectional Officer,Service
+2983,Various IT Posts,Service
+2984,Adjunct Scientist,Service
+2985,Project Engineer,Service
+2986,Trade Apprentices,Service
+2987,Technician B,Service
+2988,Management Trainee (MT),Managements
+2989,Subordinate Services,Service
+2990,Mineral Development Officer,Assistance
+2991,Tripura Civil Service (TCS),Service
+2992,Tripura Police Service (TPS),Service
+2993,Receptionist,Service
+2995,Insurance Medical Officer,Medical
+2996,Work Supervisor,Service
+2997,Occupational Therapist,Therapy
+2998,Executive Engineers,Service
+3000,Combined State / Upper Subordinate Services,Service
+3001,Block Primary Education Officer,Officials
+3002,Mineral Development Officer,Officials
+3003,"Grade II, Assistant Public Prosecutor",Service
+3004,Mason,Service
+3005,Physiotherapist,Speciality
+3006,Primary Education Officer,Service
+3007,Assistant Executive Engineers,Service
+3008,Clerk,Service
+3010,Office cum Field Assistant,Assistance
+3011,Refrigeration Engineer,Service
+3013,IT Professionals,Service
+3015,Finance Professionals,Service
+3016,Anganwadi Worker & Helper,Helpers
+3017,"Administrative Officer, Assistant",Service
+3018,Soldier Technical,Executives
+3019,Graduate Apprentice,Service
+3020,Tender Executive for Electronics Company,Electronics
+3021,Tendering Manager,Managements
+3022,cleaning work of office premises,Service
+3024,"Developing,Upgrading & Maintaining Website of Publication Division",Service
+3025,"Transportation,Packing,Forwarding,Despatch, of copies of weekly Employment News and Rojgar Samachar",UserServices
+3028,"Annual Maintenance contract of computer, printers, upss,lan and other items",UserServices
+3029,Outsourcing of services of Data Entry Operators in Employment News on contract basis regarding,Data
+3030,Cleaning & Maintenance of the Office of Employment News,UserServices
+3031,Supply of Newsprint Paper,UserServices
+3032,for Outsorurcing of services of Data Entry Operators and Secretarial Assistants in Publication Division (DPD) on contract basis,Data
+3033,"unloading,stacking,loading and transportation of newsprint.",UserServices
+3034,Transport,UserServices
+3035,Supply of computers & related items,UserServices
+3036,Cleaning & Maintenance,UserServices
+3037,"Maintenance of Air-Conditioners(Split,Windows,etc) & Voltage Stabilizers",UserServices
+3038,Engagement of Data Entry Operators (General) & Data Entry Operators (Accounts) through outsourcing.,Data
+3039,Supply of Newsprint Paper.,UserServices
+3040,Printing Of Employment News.,UserServices
+3041,Binding Books and Records.,UserServices
+3042,"Washing, Dry cleaning of Towers, Curtains, etc.",UserServices
+3043,"AMC of computers, etc. in Hrs.",UserServices
+3044,Railway Signaling & Telecommunications Engineer,Railway
+3045,Senior Design Engineer For Railways/metro Project,Railway
+3046,Supply Of Agency Resources.,Agents
+3047,petty repairs of em works to hairgrip line seawater line old mpg and new mpg line under age em of GE west Delhi cant 10,UserServices
+3048,bids are invited for um cartridge / consumable total quantity : 80,UserServices
+3051,bids are invited for filtering half mask-air pollution mask total quantity : 8000,UserServices
+3052,selection of asset valuer in the context of strategic disinvestment of project & development India limited (pail).,UserServices
+3053,supply and installation of web application server and database server,UserServices
+3054,bids are invited for cleaning & sanitation and disinfection service total quantity : none,UserServices
+3055,bids are invited for technical manpower outsourcing service total quantity : none,UserServices
+3057,"supply of , id antigen profile 3, cat no.8701v pack size- 1x12 cards / pack, diacritical elation kit containing buffer, acid,f balance pack size per pack",UserServices
+3060,bids are invited for filtering half mask-air pollution mask total quantity : 5000,UserServices
+3061,bids are invited for medical protective coverall suit -disposable total quantity : 4700,UserServices
+3062,supply fabrication and installation of sound proof hoardings,UserServices
+3063,construction of cg stations,UserServices
+3064,hiring of tips service,Service
+3066,laying of 3lpe coated carbon steel pipelines,UserServices
+3067,tender documents for procurement of raw material for Mandalay ( feral ) unit as per file attached,UserServices
+3068,bids are invited for infrared medical thermometer for measuring body temperature total quantity : 10,UserServices
+3069,annual rate for seed packing materials 2020-21 as per file attached,UserServices
+3070,annual rate for seed packing materials 2020-21 as per file attached,UserServices
+3071,rate contract for supply of d water & coolant additives.,UserServices
+3072,invited for web application firewall total quantity : 1,UserServices
+3074,bids are invited for digital signature certificate total quantity : 250,UserServices
+3075,annual maintenance and repair and development work of MD office.,Service
+3076,annual maintenance and repair of residential colony.,Service
+3077,bids are invited for tractors total quantity : 1,Service
+3078,repair replacement of joinery and certain BR items etc arc area at GE west barely,UserServices
+3079,improvement of guard posts at ads Kanpur,UserServices
+3081,bids are invited for led ruminate ( recessed ruminate ) total quantity : 40,Service
+3082,bids are invited for supply of toothpaste total quantity : 150,Service
+3083,refilling of fire extinguisher at different substations under ETD ram,Service
+3086,diesel vehicle diesel vehicle for i eds-v,UserServices
+3087,diesel vehicle diesel vehicle for sod-phoolpur,UserServices
+3088,supply of sf-6 gas filled cylinders for 132 kc substations under ETD bighorn,UserServices
+3089,transport work for wheat purchase 2020-21 for center sadness Kalahari samizdat ltd . Uruguayan district hairdo,UserServices
+3090,annual maintenance of various 132kv lines under teds Andalusian/ETD Alhambra,UserServices
+3091,"supply of , each tab / cap contains Condillac 5 mg packed in PVC / silver foil strip / bottle",UserServices
+3093,bids are invited for toothbrush total quantity : 150,UserServices
+3094,"engagement of 01 no diesel vehicle (equivalent SUV) along with driver for the period of 08 months for chief engineer(est), Paraguayan.",UserServices
+3095,maiming and operation of em installation at cod checkbook,UserServices
+3096,bids are invited for gowns operating total quantity : 200,UserServices
+3097,bids are invited for plastic buckets total quantity : 150,UserServices
+3098,bids are invited for health care security service total quantity : none,UserServices
+3099,construction of tsp 3 . 00 ml at Cruikshank town,UserServices
+3100,construction of tsp 2 . 00 ml at Mariana town,UserServices
+3101,supply of potassium binding resins (k bind)/ 15gm sachet,UserServices
+3102,"supply of , ultramodern injection /50 mg / ml in 1 ml ampoule",Service
+3103,tender for hiring of vehicles with valid permit for commercial use in fervour SSA,UserServices
+3104,"supply of , face shield, other specification as per annexe-a attached",UserServices
+3105,supply of labour for source segregation at secondary points MC ziggurat,UserServices
+3106,supplying and laying of organic water converter machine on dumping ground MC ziggurat,UserServices
+3107,insulation of GI pipes with nitrite rubber sheet of size 1.2 m * 8 m and 25 mm thickness on terrace of Purana premium apartments,UserServices
+3108,job order soil testing for prov of 3esh ( 450mt ) for 1 . 3unhd under GE ( e ) fr,UserServices
+3109,annual maintenance of dumping ground MC ziggurat,UserServices
+3110,supply of public health chemicals in mc Nagpur,UserServices
+3111,supply of fogging machine mc Nagpur,UserServices
+3112,"r/c estimate for const . of boundary wall , composit pit , chonki dar room etc at village peer muchhalla mc Nagpur",UserServices
+3113,r/c estimate for construction . of collection at secondary point at grid village phabat mc Nagpur,UserServices
+3114,job order construction of residential accommodation and office accn and offrs trasit facality asr,UserServices
+3115,job order soil testing for provn of otm accn for ge ( w ) fzr,UserServices
+3116,job order soil testing for office accn of lao and dpdo at amristar,UserServices
+3117,erection of 200 volt 300 ah battery set.,Service
+3118,erection of 220 volt 300 ah battery set.,Service
+3120,erection of 220kv volt 300 ah battery set.,Service
+3121,"erection of isolator, le switch, line control current transformer, bus bar structure, dismantling of busbar structure etc.",Service
+3122,to supply of spares beml spares,Service
+3125,"supply of , fluticasone propionate aq. nasal spray",Service
+3127,"supply of , teneligliptin 20mg + metformin 1000mg tab",UserServices
+3128,"supply of , tinidazole 200mg /400ml i.v. infusion",UserServices
+3129,combined hot and cold rolling mill,UserServices
+3130,cyclosporin 0.1% eye drops,UserServices
+3133,tolteridone 2mg tab,UserServices
+3134,duphastan 10mg tab,UserServices
+3135,amisulpiride 100mg tab,UserServices
+3136,citicoline 500mg tab,UserServices
+3138,"supply of metallurgical microscope with camera, image analyzer & metallurgical software",UserServices
+3140,resistivity meter,UserServices
+3141,tacrolimus 0.25mg tab,UserServices
+3142,laser power sensor & helium-neon laser system,UserServices
+3143,high energy planetary ball mill,UserServices
+3144,temperature test chamber,UserServices
+3145,dual independent touch screen syringe pump,UserServices
+3146,bids are invited for cab and taxi hiring service total quantity : none,UserServices
+3147,extension of switch house building at 66kv sub station,Service
+3148,Extension of switch house building at 66 kv sub station,Service
+3150,local purchase of potato fresh and onion dry potato fresh and onion dry,Service
+3152,ostelmavir 75 mg tab,UserServices
+3153,face shield as per attached specification or similar,UserServices
+3155,ritonavir 50 mg + lopinavir 200 mg tab,UserServices
+3156,dead body bag with zip close. specification as per p.o. attached.,UserServices
+3157,dapagliflozin 5mg,UserServices
+3158,(ph no.:43002) atorvastatin 20 mg tab,UserServices
+3159,bids are invited for lead acid battery total quantity : 214,UserServices
+3160,moxonidine 0.3mg tablet strip of 10,UserServices
+3161,tab.asprin /150 mg enteric coated,UserServices
+3163,bids are invited for security manpower service total quantity : none,UserServices
+3165,ht cable preparation tool for the ht lt system of njhps jhakri,UserServices
+3166,supply of automatic triaxial testing system,UserServices
+3167,restoration of rain damages on sakb road in k m 0 0 to 80 400 sh c o breast wall and m t in k m 72 590 to 72 740,UserServices
+3168,bids are invited for healthcare security service total quantity : none,UserServices
+3169,bids are invited for lever arch file total quantity : 150,UserServices
+3171,bids are invited for sluice valves total quantity : 3,UserServices
+3173,supply of fish seed,UserServices
+3174,"pcc poles, transformer oil, gss wires, g.o. switches, isolators, third party inspection",UserServices
+3175,bids are invited for milk powder total quantity : 2100,UserServices
+3176,bids are invited for string or twine-jute total quantity : 9000,UserServices
+3177,"job 4 construction of 4 nos class room govt . sr . sec . school , behdala , tehsil and distt . una h . p deposit work",UserServices
+3178,bids are invited for plain weave cotton fabrics-leopard packing cloth total quantity : 4000,UserServices
+3179,"supply & installation of new smf vrla batteries at aai, shimla-airport",UserServices
+3180,supply of fire retardant- overall/ dangri for cisf (fire) unit,UserServices
+3181,bids are invited for sealing wax total quantity : 10000,UserServices
+3182,auction sale of immovable property,Service
+3183,providing and laying of high performance concrete inscoured glassis block-corrigendum.,Service
+3185,purchase of stores-miscellaneous goods,UserServices
+3186,bids are invited for semi automated urine analyser total quantity : 1,UserServices
+3188,hiring of supervisory staff and research assistant on outsourcing basis,UserServices
+3189,hiring of support services for hydrological observations on various rivers in himachal pradesh,UserServices
+3190,hiring of support services for hydrological observations,Service
+3192,cooked diet services cooked diet services for zonal hospital dharamshala,Service
+3194,repair of faulty smps repair of faulty smps in mandi ba mandi and kullu ssa,Service
+3196,spl repair to block no p-29 ( 1 to 08 ) snow view line at palampur mil stn,Service
+3197,spl repair to existing centralized medical gas sys in icu yol cantt,Service
+3198,prov lis to hl from changawati khad to gp kalbog nagan and ramnagar in tehsil kotkhai distt shimla hp phase 9th,Service
+3199,bids are invited for semi automated coagulation analyser total quantity : 1,Service
+3200,"procurement of uvvisible double beam spectrophotometer for ntpc mouda , double beam uv-visible spectrophotometer",Service
+3201,bids are invited for human resource outsourcing service total quantity : none,Service
+3202,"supply of , rubber hand gloves standard size having good quality materail",UserServices
+3203,"bids are invited for stapler pin , desktop calculator-electronics , glue stick total quantity : 6050",UserServices
+3204,supply and installation of air compressor.,UserServices
+3205,expression of interest (eoi) for to identify solution provider for energy trading and risk management software.,UserServices
+3206,"supply of , hand operated pvc spray pump capacity 16 ltr.",UserServices
+3207,"supply, installation & commissioning of new fire detection (alarm) and suppression system for well logging services campus on lstk basis.",UserServices
+3208,hiring of vehicle in rajkot business area hiring of vehicle in rajkot ba,Service
+3210,bids are invited for box file total quantity : 5000,Service
+3211,"bids are invited for video conferencing end point , television tv total quantity : 21",Service
+3213,bids are invited for oem cartridge/ consumable ( pac only ) total quantity : 25,Service
+3214,bids are invited for add on softwares-lisences and accessories for pabx system total quantity : 10,Service
+3216,"supply of , sthethoscope (additional demand for isolation ward in hospital use urgent for covid 19, stethoscope",UserServices
+3217,enrollment of rice millers and e-auction for supply of par-boiled rice.,UserServices
+3218,supply of printing items-corrigendum.,UserServices
+3219,erection and maintenance of ht/lt line and tc under dhanpur sub division.,UserServices
+3221,erection and maintenance of ht/lt line and tc under dhanpria sub division.,Service
+3223,purchase of rain coat specifications,Service
+3224,"supply of farm labour during three season current year 2020-2021 at walmi farm, walmi campus, anand.",UserServices
+3225,labour work for replacement and aug/de-augmentation of transformer under barwala sdn.,UserServices
+3232,"providing sanitation and cleaning services for various premises of walmi campus, anand. (for hostel, farmers hostel and farm zone-i area) (no.b)",UserServices
+3235,"supply, erection, testing and commissioning of underground cable (xlpe cable) with cable end termination & straight through jointing kit-extension.",UserServices
+3238,"erection, testing and commissioning of underground cable (xlpe cable) with cable end termination & straight through jointing kit-extension.",UserServices
+3239,tender for electrical maintenance work-extension.,Service
+3240,work for providing frp fencing around distribution transformer at various location of kevadiya s/d.,Service
+3241,work for erection work of ht/lt lines & tc & maintenance work of 11/22 kv feeders.,Service
+3243,providing frp fencing around distribution transformer.,UserServices
+3244,hiring of closed body diesel driven maxi passing (8+1) sitter jeep.,UserServices
+3245,"providing/replacement of meter, mmb & service wire & pole numbering-extension.",UserServices
+3246,work for laying & testing & commissioning of 11/22 kv underground xple cable for various scheme.,UserServices
+3247,hiring of diesel driven close body vehicle.,UserServices
+3248,fabrication of inspection window in hnc pump set suction band.,UserServices
+3249,"to supply and fitting of 400mm dia c.i pipe at zambua aps, for sewage d.works",UserServices
+3250,"to rewinding and reparing of starter no.1 40 hp ats at kalupura aps-6, sewage d.works.",Service
+3251,rewinding of 60 hp temp. sub. pump set of gotri aps.,Service
+3252,"supply of , face shield",UserServices
+3253,hiring of vehicle.,Service
+3254,pipe line work.,Service
+3255,renovation work of head works office.,Service
+3256,pipe line work for water supply scheme work.,Service
+3257,pipe line work for water supply scheme work.,Service
+3258,constructing of section office and compound wall,Service
+3259,"invited for pliers,pincers and nippers total quantity : 1359",Service
+3260,slab drain remaining work.,Service
+3261,invited for healthcare security service total quantity : none,Service
+3262,housekeeping services contract at chandigarh do,Service
+3263,invited for cab and taxi hiring service total quantity : none,Service
+3264,invited for cab and taxi hiring service total quantity : none,Service
+3265,"invited for technical manpower service , technical manpower service total quantity : none",Service
+3266,invited for laboratory reagent kits total quantity : 1100,Service
+3267,invited for laboratory reagent kits total quantity : 500,Service
+3268,invited for laboratory reagent kits total quantity : 500,Service
+3269,invited for laboratory reagent kits total quantity : 3000,Service
+3270,outsourcing of horticulture maintenance work.,Service
+3271,hiring of tractor trolley and front loader/excavator cum loader.,Service
+3272,enquiry for drilling accessories,Service
+3273,bids are invited for online ups 10 kva for critical infrastructures total quantity : 4,Service
+3274,bids are invited for glossy photo paper total quantity : 60000,Service
+3275,bids are invited for disposable syringes total quantity : 300000,Service
+3276,bids are invited for disposable syringes total quantity : 300000,Service
+3281,recarpeting of approach road and parking in mla hostel sector 3 and sector 4 chandigarh,Service
+3282,bids are invited for almirah steel total quantity : 12,Service
+3284,bids are invited for revolving chair total quantity : 10,Service
+3285,bids are invited for almirah steel total quantity : 11,Service
+3286,bids are invited for wooden almirah total quantity : 30,Service
+3287,bids are invited for executive computer table total quantity : 10,Service
+3289,invited for sofas total quantity : 3,Service
+3292,invited for chairs-office total quantity : 20,Service
+3294,bids are invited for unplasticized pvc pipes for potable water supplies total quantity : 2500,Service
+3296,invited for human resource outsourcing service total quantity : none,Service
+3298,bids are invited for lead acid battery total quantity : 110,Service
+3299,e-auction sale of wheat,Service
+3300,"supply of rapid anti body based blood test kit, n-95 mask, ppe kit, surgical gloves and triple layer mask.",UserServices
+3301,"installation, testing, commissioning & maintenance of on grid 158 kwp rooftop solar photo voltaic power plant",UserServices
+3302,providing and laying of 100mm ductile iron pipe line for balance left out portion of madrasi colony maloya chandigarh,UserServices
+3303,invited for medical and surgical adherent tapes for general use or surgical tapes total quantity : 30000,Service
+3304,invited for human resource outsourcing service total quantity : none,Service
+3306,operation and comprehensive maintenance of electromechanical services at te bldg. sector 53 mohali - corrigendum,Service
+3307,bids are invited for cab and taxi hiring service - short term total quantity : none,Service
+3308,bids are invited for field dress ( jacket and trouser ) - iaf specification total quantity : 50,Service
+3309,invited for hdpe tarpaulins in square mtrs total quantity : 3000,Service
+3310,invited for common and special proofed tarpaulins total quantity : 20,Service
+3313,invited for automatic line voltage corrector or step type auto transformer total quantity : 5,Service
+3314,bids are invited for automatic line voltage corrector or step type auto transformer total quantity : 5,Service
+3316,invited for power cable for direct burial xlpe ugac cable total quantity : 1050,Service
+3317,invited for power cable for direct burial xlpe ugac cable total quantity : 700,Service
+3318,invited for echo cardiography scanning machine total quantity : 1,Service
+3320,"supply of triple layered masks , covid-19 , triple layer mask",UserServices
+3324,"n-95 masks ( pk-ii ) supply of n-95 masks , covid-19 , n-95 mask",UserServices
+3325,bids are invited for supply of handloom cotton gauze total quantity : 23000,Service
+3326,external painting for the office building of margao municipal council,Service
+3327,providing and laying full grout to the existing road from shirodkar house to main road at housing board in ward no. 24 of margao municipal council,Service
+3328,"reconstruction of the existing drain near borkar super store at vidyanagar, gogol in ward no. 23 within the jurisdiction of margao municipal council",Service
+3329,providing fullgrout behind aashiyana building at gogal in ward no. 23 within the jurisdiction of margao municipal council.,Service
+3330,construction of drain and providing and laying full grout near gabrial house to sunworld sports in malbhat in ward no. 17 of margao municipal council.,Service
+3331,construction of retaining wall near house of jasmin coutinho in municipal property at pedda in ward no. 15 of margao municipal council.,Service
+3334,construction of drain near sangam hotel at malbhat in ward no. 14 within the jurisdiction of margao municipal council.,Service
+3338,reconstruction of the existing drain near karlito building at pedda in ward no. 13 within the jurisdiction of margao municipal council.,Service
+3339,tender for extension of dry sorting station in the panjim municipal market.,Service
+3340,"tender for construction of shed for sorting station in ward no. 30 at ribandar, panaji-goa.",Service
+3341,supply of equipments under supplies & material -fire proximity suit,Service
+3342,supply of equipments under supplies & material - chemical protective suit type 3,UserServices
+3343,supply of equipments under supplies & material - pyrolene suits with neoprene gloves,UserServices
+3344,equipments under supplies & material - chemical protective suit level 闁绘劘妫勯崝,UserServices
+3347,fire fighting & life saving equipment under machinery & equipment - dewatering pump.,UserServices
+3349,"invited for workstation, desktop computers total quantity : 7",UserServices
+3350,invited for laptop-notebook total quantity : 6,Service
+3351,invited for dslr/ compact / handheld camcorder or video cameras total quantity : 1,Service
+3354,invited for security manpower service total quantity : none,Service
+3355,invited for human resource outsourcing service total quantity : none,Service
+3357,"tailing dam construction of final phase works of tailing dam project at ucil , tummalapalle , andhra pradesh .",Service
+3358,invited for emergency recovery trolley total quantity : 32,Service
+3359,procurement of fully automated blood chemistry analyzer.,Service
+3360,tender for procurement of high end colour doppler ultrasound machine bokaro steel plant,Service
+3361,"refilling and maintenance of fire extinguishers in turamdih group of mines , ucil",Service
+3362,supply of medical equipment.,UserServices
+3363,supply of blood chemistry analyzer,UserServices
+3364,"supply of , febric cloth ( sky blue colour) for making hospital uniform ( pyjama - kurta),",Service
+3365,bleaching powder for supply of stable bleaching powder for uranium corporation of india ltd . ( ucil ),Service
+3368,invited for sodium hypochlorite or sodium hypochlorite solution total quantity : 140,Service
+3370,invited for hand cleaner soap total quantity : 5840,Service
+3371,supply of material for different hospital.,UserServices
+3377,resource facility management ( rfm ) services at ktps,Service
+3379,invited for power sprayer total quantity : 1,Service
+3380,invited for filtering half mask-air pollution mask total quantity : 900,Service
+3384,invited for alcohol based hand rub/hand sanitizer total quantity : 480,Service
+3385,supply of assembly of 28 no da followed by positioning on test rig as pe,UserServices
+3386,"invited for surgical gloves , disposable surgical rubber gloves - prepowdered total quantity : 900",Service
+3387,"supply of , infrared thermometer (for medical use)as per drg-nil specification- nil",UserServices
+3388,annual maintenance contract foe packaged type air conditioners units of different capacity installed,Service
+3390,annual maintenance contract of chapati making machine for one year,Service
+3391, invited for hospital biohazard bags or bio medical waste collection bags total quantity : 100,Service
+3392,invited for hospital biohazard bags or bio medical waste collection bags total quantity : 100,Service
+3393,invited for desktop computers total quantity : 1,Service
+3394,invited for hospital biohazard bags or bio medical waste collection bags total quantity : 100,Service
+3395,"supply of stationary and other items (carbon, paper pin, adhesive, short hand note book, stamp pad etc.).",UserServices
+3396,bids are invited for infrared medical thermometer for measuring body temperature total quantity : 3,Service
+3397,bids are invited for toilet cleaners liquid total quantity : 1991,Service
+3398,bids are invited for bleaching powder stable total quantity : 1848,Service
+3399,bids are invited for toilet brush total quantity : 594,Service
+3400,bids are invited for antiseptic/antimicrobial hand wash total quantity : 1298,Service
+3401,bids are invited for squeeges or washers- wipers-mopper total quantity : 286,Service
+3402,bids are invited for cleaning duster total quantity : 2376,Service
+3404,bids are invited for floor cleaners total quantity : 1078,Service
+3405,invited for detergent surfactant powder total quantity : 1265,Service
+3406,invited for detergent surfactant powder total quantity : 1265,Service
+3408,invited for detergent surfactant powder total quantity : 1265,Service
+3409,"invited for brooms , brooms total quantity : 3498",Service
+3412,invited for phenyl total quantity : 1683,Service
+3414,invited for cobweb brush total quantity : 649,Service
+3415,"supply of , examination gloves (latex) 100 pc per packet.",UserServices
+3417,surgical gowns (green),UserServices
+3418,nitrile gloves (size no. 7),UserServices
+3420,"supply of , n 95 mask",UserServices
+3421,cyphenothrin 5% ec (gokilaht-s 5 ec),UserServices
+3422,surgical mask.,UserServices
+3423,surgical head cap.,UserServices
+3424,fixed bed tubular micro-reactor,UserServices
+3425,supply of syngas to methanol pilot plan,UserServices
+3426,invited for bathing bar total quantity : 1551,UserServices
+3427,invited for air conditioner total quantity : 3,Service
+3428,tender for Annual rate contract for supply of flanges for bpcl-kochi refinery,Service
+3429,invited for steel tables total quantity : 8,Service
+3430,bids are invited for workstation ( pac only ) total quantity : 1,Service
+3431,"fabrication of melting pit , mixing pit and pre coat pit steam coils for acid plant in fact cd",Service
+3432,"design , build , testing , commissioning and delivery of emergency response cum work boats for kochi water metro project",Service
+3434,"supply of , nitrile dyped cotton gloves of size 9""",UserServices
+3435,invited for convective air patient warming system total quantity : 2,Service
+3436,"invited for movable file storage system (compactor),almirah steel,executive table,sofas,modular table, chairs-of total quantity : 33",Service
+3437,construction of new septic tank and soak pit in district jail kozhikode in kozhikode district construction,Service
+3438,invited for trolleys or accessories total quantity : 5,Service
+3439,"servicing of air circuit breakers in mla hostel , thiruvananthapuram (re-tender",Service
+3440,supply of supply of sports caps and t-shirts for sac tenders for sports caps and t-shirts for sac,UserServices
+3441,invited for dental examination chairs total quantity : 1,UserServices
+3442,invited for reusable/washable cloth face mask total quantity : 7000,Service
+3444,invited for television tv total quantity : 1,Service
+3445,"supply, installation and commissioning of one number of 400 kva online ups & accessories.",UserServices
+3446,invited for potable water purification system reverse osmosis or uv based total quantity : 1,Service
+3447,invited for ductile iron fittings-di total quantity : 200,Service
+3448,invited for hot or cold water dispenser total quantity : 1,Service
+3449,"invited for sluice valves , check valve , check valve , sluice valves , sluice valves , sluice valves total quantity : 56",Service
+3450,constrution bituminous road at busstand area manasa dist neemuch m . p .,Service
+3451,bids are invited for hand gloves woolen knitted total quantity : 400,Service
+3452,invited for earthing rod total quantity : 10,Service
+3453,invited for ptfe / graphite yarn reinforced with synthetic fibre gland rope total quantity : 360,Service
+3454,invited for rubber gloves for electrical purposes total quantity : 100,Service
+3456,auction sale of lot no: 19 lot name: u/s scrap bobbin spool big and small,Service
+3457,auction sale of lot no: 15 lot name: u/s tube light choke,Service
+3459,auction sale of lot no: 13 lot name: ph monitoring system,Service
+3460,auction sale of lot no: 10 lot name: chartless recorder,Service
+3461,auction sale of lot no: 11 lot name: pressure transmitter,Service
+3462,supply of tractor with tanker,UserServices
+3463,cleaning of chamber,Service
+3465,bids are invited for security manpower service total quantity : none,UserServices
+3466,"supply of , tab orciprenaline 10 mg,",UserServices
+3467, invited for icu bed total quantity : 30,Service
+3468,bids are invited for led lamps- bulb total quantity : 190,Service
+3469,hiring of fiber network laying in duliajan campus,Service
+3470,special repair to bldgno p30 d1 office accomodation at army land at campbell bay,Service
+3471,bids are invited for ecg machine total quantity : 2,UserServices
+3474,urgent maintenance of existing nh 04 portion from kalara junction ch. 298+000 km to lamiya bay ch. 330.662 km -retender,UserServices
+3475,bids are invited for aerial bunched cables total quantity : 19000,Data
+3476,invited for spirits or liquors or rectified spirit total quantity : 1000000,UserServices
+3477,invited for battery cell total quantity : 10000,UserServices
+3478,invited for saline stand total quantity : 100,Data
+3479,invited for absorbent cotton wool total quantity : 10000,UserServices
+3480,provision of otm accomodation for dsc platoons at vijay nagar of icgs hutbay,UserServices
+3481,all inclusive annual maintenance contract of ro plant fitted onboard fdn-2,UserServices
+3483,attending repairs to passenger hall and canteen and improvement to the toilet facilities at kamorta port in nancowrie,UserServices
+3484,"bids are invited for crop protection equipment -hand operated knapsack sprayer, piston type for agriculture total quantity : 85",UserServices
+3487,"augmentation of storage capacity of water supply augmentation of storage capacity of water supply system at haddo and inter connection of buniyadabad and jarawa pump house at haddo , port blair",Data
+3489,invited for suction catheters total quantity : 1000,UserServices
+3490,invited for domestic refrigerators total quantity : 1,UserServices
+3491,invited for arterial blood gas analyser total quantity : 10,UserServices
+3492,invited for absorbent cotton wool total quantity : 10000,UserServices
+3494,invited for aluminium conductorsaac/aaac/acsr total quantity : 100000,UserServices
+3495,invited for hazardous material protective footwear-rubber knee and ankle boots total quantity : 1000,Railway
+3496,bids are invited for surgical isolation faceshield total quantity : 1000,Railway
+3497,bids are invited for absorbent cotton wool total quantity : 100000,Agents
+3498,bids are invited for nasal oxygen cannula total quantity : 1000,UserServices
+3499,supply of potable drinking water.,UserServices
+3500,"bids are invited for distribution transformer, 3 phase, 11 kv, > 200 kva up to and including 2500 kva total quantity : 4",UserServices
+3501,bids are invited for oem cartridge/ consumable total quantity : 22,UserServices
+3502,invited for oem cartridge/ consumable total quantity : 28,UserServices
+3503,provision of 180 charpoys for 172 inf bt ( ta madras ) at campbellbay,UserServices
+3504,invited for wheat atta/flour total quantity : 7500,UserServices
+3505,invited for coriander total quantity : 72,UserServices
+3506,periodical servicing of 125 kva dea set at telephone bhawa,UserServices
+3507,invited for toilet soap total quantity : 2500,UserServices
+3508,periodical servicing of 75 kva dea set at bsnl bhawan,UserServices
+3509,"replacement of 12 v dg set battery with charger, periodical servicing of 30 kva dea set at telephone exchange, neil.",UserServices
+3510,bids are invited for turmeric total quantity : 72,Service
+3511,bids are invited for arhar dal or tur dal defence total quantity : 836,UserServices
+3512,bids are invited for masoor dal defence total quantity : 82,UserServices
+3513,milk powder total quantity : 1167,UserServices
+3515,sunflower oil total quantity : 1161,UserServices
+3516,refined sugar total quantity : 1635,UserServices
+3518,invited for iodized salt total quantity : 957,UserServices
+3519,invited for cumin total quantity : 60,UserServices
+3520,invited for moong dal husked(dhuli) defence total quantity : 1571,UserServices
+3521,invited for chilly total quantity : 72,Service
+3522,invited for sabjee masala total quantity : 10200,Service
+3524,invited for garam masala total quantity : 30,Service
+3525,invited for smart phone total quantity : 3,UserServices
+3526,"provision of retaining wall along the side of rain water harvesting pond at brichgunj mily station , port blair",UserServices
+3527,bids are invited for non basmati rice total quantity : 10100,Service
+3528,invited for plain savory biscuits total quantity : 2600,Service
+3529,invited for public place seating chair total quantity : 50,Service
+3531,special repairs to aproach road to building no p-59 at ins baaz under ge ( i ) campbell bay .,UserServices
+3534,"invited for distribution transformer, 3 phase, 11 kv, > 200 kva up to and including 2500 kva total quantity : 4",UserServices
+3535,invited for fixed bldc fan total quantity : 3380,UserServices
+3536,"provision of 01 ops shelters ( toilet block ) at ins jarawa, haddo, port blair",UserServices
+3537,bids are invited for lead acid battery total quantity : 8,UserServices
+3538,"repair rate contract for repair/ routine work on pumps of in ships , yard craft and fdns",UserServices
+3539,rrc for retro fitment of spring assembly in existing wt hatches onboard in vessels,UserServices
+3540,term contract for artificer works at vijay baugh and mes colony area under age b/r-ii of ge haddo,UserServices
+3543,"repairs to footpath , kerbs , railing , chainlink fencing under age b/r-i of ge haddo",UserServices
+3544,"term contract for artificer works at naval wharf , nsry , navcc and cdu area under age b / r-ii of ge haddo",UserServices
+3545,addition / alteration to building no . t-80 jalvihar under age b/r-i of ge haddo,UserServices
+3546,welcome maintenance including allied misc b/r and internal e/m repair works to md offrs accn under age b/r-ii subdivision of ge birchgunj,UserServices
+3547,provn of rcc retaining cum security wall at icgs land mayabunder,UserServices
+3548,misc repairs and maintenance to buildings at md and otm accns of ce zone complex under age b / r -i sub div of ge birchgunj,UserServices
+3549,supply of wind driven roof extractor,UserServices
+3550,"supply of argon gas iolar-2/inox-1 grade . argon gas iolar-2/inox-1 grade . , argon gas iolar-2/inox-1 grade .",Service
+3551,"supply of green long salia bamboo . green long salia bamboo , green long salia bamboo",UserServices
+3552,"supply of local pb station , outdoor type push button station , lcs for 415v , 220kw vfd",UserServices
+3553,tablet. azithromycin-500mg,UserServices
+3554,tablet. atorvastatin 10mg,UserServices
+3555,tablet. atorvastatin-20mg,UserServices
+3556,repair of multi purpose flood shelter ( mfs ) at khadagprasad for the year 2020,UserServices
+3557,repair of multi purpose flood shelter ( mfs ) at khandabandha for the year 2020-21,UserServices
+3559,annual maintenance of medicinal garden at ananta oc project for a period of 02 ( two ) years .,UserServices
+3560,"providing concertina coil over compound wall of r and r ( partly ) balanda in front of uco bank towards club house under bbsri ocp , jagannath area",UserServices
+3563,procurement of tata 1200 and tata 350 spares,UserServices
+3564,application of chemical resistant coating in reep,UserServices
+3565,bids are invited for propeller type ac ventilating fan-exhaust total quantity : 22,UserServices
+3566,"customized bopp tape . customized bopp tape . , customized bopp tape",UserServices
+3567,"push type seals . push type seals . , push type seals for 31 . 75 mm strap",UserServices
+3568,"knockout punch , knock out punch ( round screw ) , for 3mm sh*",Service
+3569,procurement of tata 1200 spares,Service
+3571,spares for escort crane rt-40 at lingaraj ocp ( exclusively for oem ),Service
+3572,"rolling mill breaker , supply of rolling mill breaker as per nit , retrofitting charges of rolling mill breaker as per nit",Service
+3573,"three pole load break isolator , 3 pole load break switch , lic 630a",Service
+3574,tip top belt repair kit and cleaning rubber,Service
+3575,erection and commissioning of led flood light mini mast tower,UserServices
+3576,1000 lph ro system water treatment plant,UserServices
+3577,engagement of transport contractor for transporting of wheat and rice under snp for 2020- 21,UserServices
+3578,"bulk chemical - sodium chlorite for dstpp , sodium chlorite",UserServices
+3579,roof-top solar plant 100 kwp,UserServices
+3580,vehicle mounted hydraulically operated ladder ( revised tender ),UserServices
+3581,"design , supply , erection , testing and commissioning of nitrogen generator unit for nalco , panchpatmali bauxite mines , damanjodi , koraput",UserServices
+3584,"invited for meeting table ( pac only ) , chairs-office ( pac only ) total quantity : 17",UserServices
+3587,"supply of , tab. glyceryl trinitrate 2.5/2.6mg.:[packing: strips of 10 tab.]",UserServices
+3588,bids are invited for laptop-notebook total quantity : 21,UserServices
+3590,tab. saxagliptin 5 mg/tab.: [packing: srtips of 10 tab.],UserServices
+3591,tab. vildagliptin 50mg.:[packing: strips of 10 tab.],UserServices
+3593,tab. metformin 1 gm. sr.:[packing: strips of 10 tab.],UserServices
+3594,"supply of , contact wire splice (toothed type) r.i. no. 1081-1 rdso spec. no. eti/ohe/p/1081-1, (mod-c)",UserServices
+3596,"supply of , catenary wire splice (65) as per rdso drg. no. eti/ohe/p/1090, part no. 1091-1094.",UserServices
+3598,"painting , cleaning and other miscellaneous works near wagon tippler .",UserServices
+3599,ising of compound wall from gate no . 3 to l and t junction,Service
+3600,outsourcing the operation of mechanical truck tyre washing system at gate no . 3 for a period of six months,Service
+3602,construction of new substation building near oil jetty,Service
+3604,extension of fertilizer berth return arm . ( revised tender ) extension of fertilizer berth return arm,UserServices
+3605,construction of four new class rooms in k . v . paradip port .,UserServices
+3606,"renovation to the entrance , portico and lobby of administrative building",UserServices
+3608,renovation to old ubi block-c and block-b at madhuban,UserServices
+3609,water sprinkling to the roads inside port prohibited area for the year 2019-20 ( zone-ii ) .,UserServices
+3611,construction of panchayat bhaban at purba raigram at mamudpur-1 gram panchayat . 3rd call,UserServices
+3612,construction of concrete road from goutam das house to ghorsala shib mandir under kanupur gp block raghunathganj i,UserServices
+3613,1565/ nkda/engg-36/2010 - supply and installation of 4 nos mosquito traps in new town kolkata,UserServices
+3614,"supply of , gauze surgical in than, gauze width 60 cm length 16 mtrs with 32 threads per inch ( tpi ), than",UserServices
+3615,"supply of , tourniquate (latex) 7.5cm x 180cm, roll",UserServices
+3616,"tab.tibolone 2.5mg,strip packing",UserServices
+3617,bids are invited for telecommunication cable total quantity : 10,UserServices
+3618,invited for rotary hammer drill ndrf total quantity : 10,UserServices
+3619,invited for sanding machines total quantity : 15,UserServices
+3620,"inj. noradrenaline bitartarate 2mg, amp",UserServices
+3621,"tab.linagliptin 5mg, strip packing",UserServices
+3622,"triangular bandage 130 x 90 x 90cm, piece",UserServices
+3623,"adhesive plaster non-extensile tape woven 2.5cm x 5m, spool",UserServices
+3624,"tab. isosorbide 5 mono nitrate 20mg, strip packing",UserServices
+3626,"mata traders, ambika agencies, weld well agencieses",UserServices
+3627,"overhauling of lp turbiine , generator and auxiliary works of unit-4 , 195 mw ( kwu design ) at muzaffarpur tps - kbunl , bihar .",UserServices
+3628,invited for cordless screw driver total quantity : 15,UserServices
+3629,maintenance and repair to cooch behar t p embankment along the l b of river torsa in harinchora p s kotwali dist cooch behar,UserServices
+3632,construction of cement concrete culvert near residence of saidul sekh at dhaldanga mouja,UserServices
+3633,auction sale of lot no: 1 lot name: mruti susuki model sx4,UserServices
+3634,"expression of interest for allotment of wbhidco land at fintech hub, within cbd area of new town, kolkata on Lease-hold basis.",Service
+3635,"supply of , each 15 ml contains: liquid paraffin (3.75 ml)+ magnesium hydroxide or milk of magnesia (11.25 ml), 170 ml bottles.",Service
+3637,bids are invited for scanning and digitisation service total quantity : none,UserServices
+3638,tablet flunarizine 10 mg,UserServices
+3639,sachet mesalamine 1 gm,UserServices
+3640,cholecalciferol(vit d3) 60000 iu/gm sachet.,UserServices
+3643,respules fluticasone 0.5 mg/ 2ml,Service
+3646,capsule rabeprazole 20 mg + itopride 150 mg,Service
+3649,"procurement of medical stores medical stores , drugs , capd fluid 7 . 5% 02 ltr bag with minicap",Service
+3653,"supply of , inj. dobutamine 250mg, amp/vial",Service
+3654,tablet citicoline 500 mg + piracetam 800 mg.,Service
+3655,tablet citicoline 500 mg + piracetam 800 mg.,Service
+3656,"supply of , cap. omeprazole 20mg + domperidone 10mg, strip packing",Service
+3657,"lotion povidone iodine 10%,1 litre jar.",Service
+3658,"tab.thyroxin sodium 25mcg, bottle",Service
+3659,"supply of , suction machine--02, electrically operated, half hp motor with two jars and foot pedal switch",UserServices
+3660,item 1 development of commercial plots at balotra housing scheme balotra,UserServices
+3661,auction sale of land for agricultural work,UserServices
+3662,rectification of pipeline leakages at various wss under phed sub division srikaranpur,UserServices
+3663,"auction contract for dead animal bone and leather, leasing of canteen",UserServices
+3664,work of repair and rewinding of monoblock centrifugal pump sets and starters under sub disivion sadulshahar,UserServices
+3665,tender for computer peripherals parts purchased and maintenance,Service
+3668,annual repair contract to repair faulty pcbs of c-dot exchanges working in all ssas of rajasthan circle,Service
+3669,"contract for supply of chicken broiler dressed in chilled/ frozen state at kota , kota ( station ) chicken ( broiler ) dressed in chilled / frozen state",Service
+3671,"supply of asc articles as per tender documents , crate conveyor",Service
+3672,procurement of liquid chlorine ( on rate contract basis ) for phed circle baran,Service
+3673,running & maintenance of nigam rest house at mt. abu,UserServices
+3674,supply of bch /jyoti / l and t make starter spare parts,UserServices
+3675,deployment of private security personal on non core duties at udaipur airport,UserServices
+3676,transportation work nlcil-bp-mines-transportation of chain dozer239 to neyveli mines-1a .,UserServices
+3677,"annual rate contract for civil works at iocl , kot pump station",Service
+3678,auction sale of property - residential plot in churu,Service
+3679,various civil works at 33kv s/s agra road jaipur,UserServices
+3680,"renovation c / r bldg . and other misc . civil works at 33 kv s / s thekda , balahedi and mahuwa .",UserServices
+3681,repair of meter shed ( acos-jcc ) at oph jaipur,UserServices
+3682,construction of transformer platform and other civil works at 33 kv s / s laxman doongri jaipur,UserServices
+3683,"repair and maintenance of roof and other repair works at acos-jcc premises madhu industries hawa sadak , jaipur",UserServices
+3684,bottling and packing of country liquor 40/ 50 up in aseptic brick pack of 180 ml,Service
+3685,misc . development civil works at 33 kv s / s mandawar .,Service
+3686,renovation of c / r bldg . and other misc . civil works at 33 kv s / s hingota and gwarki .,Service
+3687,construction of guard room in dausa circle office .,UserServices
+3688,up-keeping and maintenance of garden infront of circle office dausa .,UserServices
+3689,earthfilling and other misc . civil works at 33 kv s / s balaheda .,UserServices
+3690,renovation c / r bldg . and other misc . civil works at 33 kv s / s .,UserServices
+3691,bids are invited for short gymnastic - iaf total quantity : 100,UserServices
+3692,bids are invited for desktop computers total quantity : 3,UserServices
+3693,limited tender for purchase of liquid nitrogen storage container 30 liters.-corrigendum,UserServices
+3694,limited tender for supply of drugs.-corrigendum,Service
+3695,invited for medical gowns - disposable total quantity : 25000,Service
+3696,setting of construction and demolition waste processing plant.,UserServices
+3697,bids are invited for human resource outsourcing service total quantity : none,Service
+3698,bids are invited for buy back - stationary value regulated lead acid batteries total quantity : 6,Service
+3699,"tender for operation, repair and maintenance of electrical systems.",Service
+3700,invited for computed radiography system ( pac only ) total quantity : 1,Service
+3701,invited for x-ray machine (500 ma) ( pac only ) total quantity : 1,Service
+3702,invited for workstation total quantity : 2,Service
+3703,invited for supply of portable pa system total quantity : 1,Service
+3704,invited for air conditioner ( pac only ) total quantity : 1,Service
+3705,invited for ent head light-ear total quantity : 2,Service
+3706,invited for human resource outsourcing service total quantity : none,Service
+3707,invited for human resource outsourcing service total quantity : none,Service
+3708,hiring of services - potable/ tech water - ds/ws,Service
+3709,bids are invited for lead acid battery total quantity : 15,Service
+3710,supply of pipes and fittings,Service
+3712,supply of alarm annunciators.,Service
+3713,invited for hiring of sanitation service total quantity : none,Service
+3714,invited for security manpower service total quantity : none,Service
+3715,bids are invited for technical manpower outsourcing service total quantity : none,Service
+3716,machinery and equipment open tender 2019 - 20,Service
+3717,machinery and equipment open tender 2020,Service
+3718,machinery and equipment open tender 2019 - 20,Service
+3719,machinery and equipment open tender 2019 - 20,Service
+3720,machinery and equipment open tender 2020,Service
+3721,supply of vacuum assisted venous drainage ( vavd ) controller,Service
+3723,machinery and equipment open tender 2020,Service
+3724,machinery and equipment open tender 2019 - 20,Service
+3725,machinery and equipment open tender 2020,Service
+3726,auction sale of property - land and building in villianur,Service
+3727,"reconstruction of u drain infront of office of the deputy collector ( revenue ) south , at south car street in villianur ,",Service
+3728,"improvements and special repairs works with additional facilities in health and wellness centre ( phc ) , ariyur , villianur commune",Service
+3729,construction of rain water harvesting structure at muthupillaipalayam,Service
+3730,"improvements to the four car streets in thirunallar ,",Service
+3731,annual maintenance of cross masonry structure of rivers in thirunallar section for the year 2020 .,Service
+3732,annual maintenance of cross masonry structures of channels in nedungadu section for the year 2020 .,Service
+3733,annual maintenance of cross masonry structures of rivers in t . r . pattinam section for the year 2020,Service
+3734,rivers nedungadu annual maintenance of cross masonry structures of rivers in nedungadu section for the year 2020,Service
+3735,"drugs-tablet, capsule, injection, drops, syrup",UserServices
+3736,"improvements , repairing of roads and reconstruction of u drain , l drain in puducherry phase-iii",UserServices
+3737,invited for air conditioner total quantity : 11,UserServices
+3738,invited for pins or tacks total quantity : 150,Service
+3739,invited for patient bed (fowler and semi fowler) total quantity : 7,Service
+3740,invited for mosquito net llins total quantity : 5000,Service
+3741,local grinding of dal chana into besan for the month of may 20,Service
+3742,"invited for marking pen- permanent, highlighter total quantity : 125",Service
+3743,invited for scissors total quantity : 50,Service
+3744,bids are invited for online ups 10 kva for critical infrastructures total quantity : 8,Service
+3745,"supply of , (ph no.:56002) thyroxin sodium 100 mcg/ 0.1 mg tab",Service
+3746,invited for conference folder total quantity : 170,Service
+3747,invited for gel pen total quantity : 200,Service
+3751,invited for ball point pen total quantity : 700,Service
+3752,bids are invited for ring binder- file folder total quantity : 120,Service
+3753,invited for gel pen total quantity : 100,UserServices
+3754,invited for ring binder- file folder total quantity : 120,UserServices
+3755,"supply of , tab canagliflozin 100 mg or similar",Service
+3757,"supply of , tab canagliflozin 10mg or similar",Service
+3758,request for proposal (rfp) for to support in achieving leed rating for un house.,Service
+3759,invited for television tv total quantity : 1,Service
+3760,invited for layer 2 access switch ( pac only ) total quantity : 8,Service
+3761,invited for infrared medical thermometer for measuring body temperature total quantity : 5,Service
+3763,request for proposal for providing of tool for timber traceability from private land.,Service
+3764,tender for annual maintenance contract of optical fibre cable in kota-chittorgarh region under gail vijaipur.,Service
+3765,lighting material for pellet plant # 2.,Service
+3766,"gas, acetylene, cylinder.",Service
+3768,computer items bulk.,Service
+3769,meter regulators.-corrigendum,Service
+3770,invited for disposable surgical rubber gloves - prepowdered total quantity : 71000,UserServices
+3771,invited for oem cartridge / consumable total quantity : 5,UserServices
+3773,invited for executive table ( pac only ) total quantity : 72,UserServices
+3774,procurement of water gel blankets for one year for all india requirement on arc basis,UserServices
+3775,e-tender for installation of non space pump at m / s rs jadhave,UserServices
+3777,"amc and procurement of consumables / spares parts for ftir, make m / s perkinelme",Service
+3780,tender for business writing skills workshop,Service
+3783,synthetic ester as per specification in annex.,Service
+3784,(ph no.:62034) vitamin 'e' 400 mg cap,Service
+3785,comprehensive maintenance i.e. housekeeping & mechanized cleaning and conservancy services,Service
+3786,providing vehicle on hire services for proposed irugur devangonthi pipeline ( idpl ),Service
+3787,medicines,Service
+3788,lto ultrium 6 data cartridge 2.5 tb,Service
+3789,outdoor unit ( odu ) kit suitable for 2.0t split ac machine,Service
+3790,fabrication structure items for 220 kv switchyard ct-pt replacement work,UserServices
+3791,current transducer,UserServices
+3792,handheld peizoelectric based vibration meter,Service
+3793,earthing stick / discharge rod with 35 sq.mm cable / lead for 220kv ehv transmission lines and sub-stations.,Service
+3794,"supply of mechanical seal, make- sealmatic india ltd",Service
+3795,ultrasonic non contact type level transmitter,Service
+3798,rate contract for supply of laboratory test kits,UserServices
+3799,screw driver set,Service
+3800,bakelite sheet fabric layer,Service
+3801,labour contract for hiring of skilled drivers for mt section at ofaj.=> open tender (indigenous),Service
+3802,lemon to size 30 to 40mm dia=> open tender (indigenous),Service
+3804,semi finished mask with nose strip=> open tender ( indigenous ),UserServices
+3805,"seal seal, make- rotex automation ltd",Service
+3806,request for proposal development of low-cost systems to monitor forest management interventions and land use practices outside forest lands,UserServices
+3807,hiring public relations agency for childfund india,Service
+3809,development and maintenance of a platform for equity financing to msmes.,Service
+3810,renewal of adobe product licenses for export-import,Service
+3811,data centre design and construction for export-import bank of india,Service
+3812,support assembly (wdp4) drawing no. emd pt. no. 10664126 rev nil.,Service
+3813,commercial gas meters with smart metering compatibility,Service
+3814,production of personal protective equipment(ppe)garments as per railway's scope of work.,UserServices
+3816,procurement of other cat b stores,Service
+3819,procurement of construction stores - miscellaneous goods,Service
+3820,tender for etc works of 400kv pothead yard at phpa-ii punatsangchhu hep (6x170 mw),Service
+3821,"supply of , knuckle for up- graded ht-cbc to rdso drg no. sk-62724, alt-28, item-2 material and specification : rdso spec. no. wd-70-bd-10 [ rev. 2]",Service
+3822,request for proposal (rfp) for implementation of multilanguage solution in core banking solution finacle 10.x.-corrigendum,Service
+3823,auction sale of property - commercial property,Service
+3824,"integrated communication system - quantity 70 for assam rifles , integrated communication system ( ics ) , gst",Service
+3825,special repairs to bldg nos t 100 and t 404 at zakhama mil stn,Service
+3826,bids are invited for cleaning & sanitation and disinfection service total quantity : none,Service
+3827,auction sale of property - land in cachar,Service
+3829,special repair to building no p-197 and 198 at umroi mil stn under ge umroi,Service
+3831,invited for lead acid battery total quantity : 32,Service
+3832,quotation for up gradation of computers,Service
+3833,invited for supply of heat shrink straight through joint total quantity : 5,Service
+3834,"carrying out various civil, mechanical and electrical jobs for construction of new retail outlet in meghalaya state",UserServices
+3835,"auction sale of lot no: 33.0 lot name: motor cycle(re), as-01ad-7139",UserServices
+3836,"auction sale of lot no: 32.0 lot name: s/m mini bus, as-01l-8930",UserServices
+3837,"auction sale of lot no: 30.0 lot name: maruti gypsy, jk-02t-4066",UserServices
+3838,"auction sale of lot no: 29.0 lot name: water tanker, pb-08al-5751",UserServices
+3839,"auction sale of lot no: 26.0 lot name: tata 407, jk-02x-0994",UserServices
+3840,"auction sale of lot no: 19.0 lot name: tata 407, jk-01f-9532",UserServices
+3841,"auction sale of lot no: 20.0 lot name: maruti gypsy, jk-02t-8063",UserServices
+3843,"auction sale of lot no: 17.0 lot name: maruti gypsy, as-01k-7735",UserServices
+3844,"auction sale of lot no: 16.0 lot name: tata 1212 tc, jk-02-t-0411",UserServices
+3845,"auction sale of lot no: 12.0 lot name: a/car, dl-9ca-9165",Service
+3846,"auction sale of lot no: 11.0 lot name: m/cycle enfield, as-01ad-7196",Service
+3847,"auction sale of lot no: 10.0 lot name: maruti gypsy, pb-08ag-5982",Service
+3848,"auction sale of lot no: 8.0 lot name: maruti gypsy, as-25c-9539",Service
+3849,"auction sale of lot no: 7.0 lot name: s/m truck, wb-73-8771",Service
+3851,"auction sale of lot no: 5.0 lot name: maruti gypsy, rj-19u-0877",Service
+3852,"auction sale of lot no: 4.0 lot name: maruti gypsy, jk-02r-8732",UserServices
+3854,"auction sale of lot no: 3.0 lot name: maruti gypsy, as-01u-4128",Service
+3855,"auction sale of lot no: 2.0 lot name: a car, as-01n-1801",Service
+3857,"auction sale of lot no: 1.0 lot name: maruti gypsy, as-01p-4009",Service
+3858,"processing of protective personal equipment ( ppe ) kit , protective personal equipment ( ppe ) kit",Service
+3859,engagement of practising company secretary for conducting the secretarial audit for the financial year 2019 - 20,Service
+3860,procurement of dummy load,UserServices
+3861,cleaning / desilting and removing of soil for increasing the capacity of malse at hq eac ( u ) af shillong under ge ( i ) ( af ) shillong,UserServices
+3863,tender for selection of agency for providing catering services,Service
+3864,special repair/renewal to surveyed off old surveyed off steel/wooden furniture under ge shillong,Service
+3865,invited for smart card printer total quantity : 1,UserServices
+3868,invited for tender for human resource outsourcing service total quantity : none,Service
+3869,special repair to bldg no p 117 at umroi mil stn unde ge umroi,Service
+3870,"invited for cab and taxi hiring service , cab and taxi hiring service total quantity : none",Service
+3871,invitation of quotation for supply of constructional stores - miscellaneous goods,Service
+3872,"bids are invited for television tv , television tv , television tv , television tv total quantity : 8",Service
+3873,special rep / replacement of ber ocb at af stn singarsi,Service
+3875,quotation for direct / local purchase of store,Service
+3877,quotation for direct / local purchase of store,Service
+3879,repairs/replacement of storage type water heaters ( geysers ) and exhaust fans with allied works at af station liatkor peak under ge ( i ) ( af ) shillong,Service
+3880,special repairs to retaining wall near bldg no t 568 at zakhama mil stn,Service
+3882,provision of dehumidifier for 875 mt dry shed of 380 ( i ) sup p asc at likabali mil stn under ge 872 ews,Service
+3883,tender for supply etc of 6 nos nos mva generator step ip transformers for kopliti,Service
+3885,invited for water baths total quantity : 1,Service
+3886,iabp machine against buy back,Service
+3889,processing of advanced cardiac output monitor,UserServices
+3890,dvt prophylaxis system,Service
+3891,processing of one unit of 4k ultra hd camera unit against buy back,UserServices
+3892,processing of 2 units of 4 -body mortuary chamber against buy back,UserServices
+3893,processing of lens meter and ultrasonic pachymeter against buy back,Service
+3895,"processing of implants and accessories, on case to case consignment basis for ophthalmology ot",Service
+3896,construction of w b m with cc road from shaikh rajak house to shirsat house in p no 6 at indiranagar for m c parli v,UserServices
+3897,construction of w b m wit cc road from dhoke house b to c for in p no 6 indiranagar for m c parli v,Service
+3900,proposed construction of w b m road from talade house to reddy baba house in p no 6 indira nagar for m c parli v,Service
+3901,proposed construction of c c road from a to b in p no 7 for m c parli v,Service
+3902,construction of cc road from ibrahim house to sheru pathan house in p no 7 for m c parli v,Service
+3903,proposed construction of cc road from sheru house to saraswati school in p no 7 for m c parli v,Service
+3905,proposed construction of cc road from m to h in p no 10 at sainagar for m c parli v,Service
+3906,proposed construction of cc road from b to h in p no 9 at ambedkar nagar for m c parli v,Service
+3908,proposed construction of drain bsd in p no 9 at bhagwan baba for m c parli v,Service
+3909,proposed construction of cc road from u to v in p no 3 for m c parli v,Service
+3910,proposed construction of cc road from jagammath kale house to gautam sawant house p no 1 fo m c parli v,UserServices
+3911,providing led fittings on and with 9 m high mast pole and allied works at bhalwani ( dalit wasti devryachiwadi ) tq beed dist beed,UserServices
+3913,constructing wastage and garbage recycle system center at p . w . d . campus nandurbar tal . dist . nandurbar,UserServices
+3914,proposed construction pf cc road from p to q in phule nagar p no 8 for m c parli v,UserServices
+3915,proposed construction cc road from pithachi girni to shirsai house in p no 10 madhavbag for m c parli v,UserServices
+3916,proposed constructiion of cc road from x to y in p no 10 at sainagar for m c parli v,UserServices
+3917,proposed constructin of cc road from tukaram rode house to amol road house in p no 3 for m c parli v,Service
+3918,improvement to road for pimpalkhute 3 to soyegaon road vr 135 ch 0 00 to 3 500 tal yeola dist nashik,Service
+3919,proposed construction of cc road from z to a in p no 3 for m c parli v,Service
+3920,bids are invited for multifunction machines mfm total quantity : 3,Service
+3921,supply of spares for suction hose pipe .,Service
+3922,8777 term contract for artificer works to certain bldgs at ins angre and ins agnibahu,UserServices
+3923,"provn of toilet block for mi room , near bldg no p-5 and addl toilets for jco / or at fort area nagpur under ge kamptee .",UserServices
+3924,"repairing rubber lining of msrl electrolytic cell tanks of emd plant , dongri buzurg mine",UserServices
+3925,"recovery of reduced ore and emd powder and washing of bottom emd at emd plant , dongri buzurg mine",UserServices
+3926,procurement od string insulator and hardware for pgcil ss 19 project,Service
+3927,repair of air conditioning system of bh60m 3872,Service
+3928,in situ repairing of hoist pulley 02 no of 20 90 dragline,UserServices
+3929,laying jointing leakage testing including transportation of ms pipe line 8 200mm dia at gouri ii ocm gsa,UserServices
+3930,clearing of jungle and stacking of scrap barrels at scrap yard area at excavation workshop of sasti ocm ballarpur area,UserServices
+3932,cleaning of store area loading unloading stacking transporting of store spares and used sub assemblies as per,UserServices
+3933,repair of hoist cylinder 01 no for cat make dumper,UserServices
+3934,bids are invited for fluorescent lamps (fluorescent tubular lamps) total quantity : 1000,Service
+3936,tender for work of cleaning and maintaining flow in 12 nos of swd storm water drains outfalls during monsoon in c and d wards,Service
+3937,replacement of inspection glasses for generator and motor,Service
+3938,tender for insulation of ladder railings in dumpers,UserServices
+3939,repair of drag rope drum of worn out rope grooves .,UserServices
+3940,hiring of hydraulic hooper,UserServices
+3941,"supply of , tab montelukast 10 mg + levocetrizine 5 mg",UserServices
+3942,bids are invited for handheld digital infrared thermometer total quantity : 35,UserServices
+3943,"supply of , tab folic acid 5 mg",UserServices
+3945,"supply of , tab olmisartan 40 mg + hydrochlorthiazide 12.5 mg",UserServices
+3946,construction of c c road from ho mahipal dhanvijay to ho as per nit,Service
+3947,supply of vehicles for district water and sanition mission and rural water supply dpt . zilla parishad thane,Service
+3948,improvement to road for shirasgaon vidyalaya jai yogeshwar vidyalaya to valadgaon km 0 00 to 1 100 tal yeola dist nashik,UserServices
+3949,improvement to hatti jaitapur to pandukharevasti to vr 16 paregaon vr no 145 tal chandwad dist nashik,Service
+3950,drilling bore well and install electric motor in prabhag no . 65 rajendranagar dr . sarvapalli radhakrishnan vidyamandir premises,Service
+3951,laying drainage line under prabhag no . 68 mhada colony,Service
+3952,laying drainage line at prabhag no . 60 sirat mohalla dhandaulat bakery to sirat mohalla masjid,Service
+3953,prabhag no . 10 to make distribution arrangements by digging coupon lines under sadar bazar,Service
+3955,removal of sludge and ancillary works from jackwell at dudhali nala rabade sheti,Service
+3956,construction of drainage chamber at jayanti nala and laying of pipeline at cpr catchpit,Service
+3957,construction of rcc gutter and road crossing slab at various places in ward no . 1 2nd call,Service
+3959,construction of wbm road with b t from ho shri govardhan to as per nit,Service
+3960,construction of c c road r c c drain h p drain as per nit,Service
+3961,construction of c c road from ho bandu mandhare to ho as per nit,Service
+3962,construction of cc road rcc drain hp drain well ms grill cover at various places in prabhag no 02 06 14 16 under dalit wasti,Service
+3963,beautification of z.p. primary school premices at lohagaon. tal. rahata dist. ahmednagar,Service
+3964,providing electrification work in n . p . chief officer bunglow at m . c . hingoli dist hingoli ( third call ) electrification work,Service
+3965,improvement to jaitapur odr 128 to pandurangvasti to indiranagar vr no 144 km 0 00 to 2 00 tal chandwad dist,Service
+3966,providing pipe line radhakrushananagar,Service
+3967,improvement to road for nagarsul to golhewadi dhamangaon,Service
+3968,improvement to road for andarsul padhegaon road to sonawane wasti road,Service
+3969,providing and installation street light pol ( octagonal ) for patel mill to momin house surrounding at vadgaon dist kolhapur,Service
+3970,construction of fallen chambers on drainage line at c ward jayanti nala,Service
+3971,to make cross connection at various places under prabhag no . 44 mangeshkar nagar,Service
+3972,laying of drinking water pipeline for superintendent of police residences at kasba bawada bhagva chowk,Service
+3973,concreting to road radhakrushananagar at lohagaon. tal. rahata dist. ahmednagar,Service
+3975,improvement to nandurtek chinchbari to wadbare road km 0 00 to 1 500 vr 56 tal chandwad dist nashik,Service
+3976,construction of fencing in meharun tp-ii fp no 487 ganesh nager in ward no . 6,Service
+3977,tender for comprehensive annual maintenance contract of xerox machines,Service
+3978,"repair/ replacement of sewage line , cleaning of septic tank and filter beds at ponda",Service
+3979,sale of institutional plots on outright basis.,Service
+3980,tender for handling and transportation of food grains.,Service
+3981,procurement of surgical lab,Service
+3983,periodical services in md/ otm accn at bambolim camp area under ge panaji goa .,Service
+3984,periodical services of buildings and compound wall at ponda under ge panaji goa .,Service
+3985,"annual rate contract for purchase of laboratory/field consumables, chemicals and glassware.",Service
+3986,ici company axo nobles international marine coatings corosive protecting marine coating various size.,Service
+3987,"repairing and renovation work of toilet, room.",Service
+3988,term contract for artificers works at madgaon area,Service
+3989,term contract for artificers works at ponda area,UserServices
+3990,replacement of existing roof with galvalume sheet of building no t 1 t 2 at ins gomantak under ge gomantak vasco,UserServices
+3991,repair to water supply and sewage pump set up,UserServices
+3992,tender for handling and transportation of food items.,Service
+3993,providing of cleaning services in hospital.,Service
+3994,"repairs to kitchen , bath , wc and connected works including service water tanks at madgaon",Service
+3996,procurement of furniture for office of ee and sm c-ii and ee and sm -e- along with provision of conference hall for cpwd office at nirman bhavan bambolim goa 3rd call,Service
+3997,"repair/replacement of external electrification and allied works at bambolim and altinho under ge panaji , goa .",Service
+3998,"construction of anti paching centre, watch tower with patrolling station and replacement of old motor with new marine engine motor.",Service
+3999,providing galvalume sheet roof covering in income tax office building at patto panaji goa,Service
+4000,drugs and pharmaceutical products - dglp medicines under pa procurement,Service
+4001,repair and renovation works at pg block-civil works,Service
+4002,repair and renovation works at pg block-electrical works,Service
+4003,special repairs replacement of hangar door at 321 hangar building no p 18 at ins hansa under ge nw vasco,Service
+4005,construction of shed for windrow composting for wet waste,Service
+4006,438/2/128 lp of navigational brs and publication,UserServices
+4007,ms/729/dglp/surlab-20-21 pa for surg and lab out of dglp,UserServices
+4008,tender for eligible suppliers for non-patent veterinary medicines,Service
+4009,providing of housekeeping services with material without material,Service
+4010,providing of security services,Service
+4011,special repairs to swimming pool at 3mtr madgaon,Service
+4012,comprehensive maintenance of light fitting/ fixtures etc,Service
+4014,bids are invited for automatic external defibrillator (aed) total quantity : 1,Service
+4015,improvement to water supply installations and periodical services to oh tanks and ug sumps,Service
+4016,"supply, installation, commissioning of kitchen/ organic garbage base biogas project scheme.",Service
+4017,"construction of encroachment prevention center, tower, replacement of old motor and new marine engine motor- obm df- 70 properal.",Service
+4018,procurement of one by type for mig aircraft,Service
+4019,invited for almirah steel total quantity : 2,Service
+4020,invited for oil hydraulic total quantity : 1470,Service
+4021,housekeeping works in ao building at headland for a period of 190 working days,UserServices
+4022,desilting of existing covered gutters in ward no. 22 to 25 within the jurisdiction of margao municipal council,UserServices
+4023,desilting of existing covered gutters in ward no. 16 to 18 within the jurisdiction of margao municipal council,UserServices
